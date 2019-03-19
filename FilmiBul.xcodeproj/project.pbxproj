@@ -1,0 +1,510 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9021BB69203D7096009F9DEA /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 9021BB68203D7096009F9DEA /* Sounds */; };
+		90EC2A1E20440993002F4021 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90EC2A1D20440993002F4021 /* SettingsViewController.m */; };
+		90EC2A21204410DB002F4021 /* AboutUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90EC2A20204410DB002F4021 /* AboutUsViewController.m */; };
+		90F2B688203C1ED80037488C /* SubmitQuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90F2B687203C1ED80037488C /* SubmitQuestionViewController.m */; };
+		90F2B68A203C2C4D0037488C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90F2B689203C2C4D0037488C /* SystemConfiguration.framework */; };
+		90F2B68D203C2D050037488C /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 90F2B68B203C2D050037488C /* Reachability.m */; };
+		98A3D0CBA534BBD8C63BCD61 /* libPods-FilmiBul.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A828231B4F1EECCEBE1E0A6 /* libPods-FilmiBul.a */; };
+		FE1E713C208675BD003C6368 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FE1E713B208675BD003C6368 /* Info.plist */; };
+		FE1E7141208739BF003C6368 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FE1E7143208739BF003C6368 /* InfoPlist.strings */; };
+		FE1E714720874C19003C6368 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE1E714620874C19003C6368 /* Launch Screen.storyboard */; };
+		FE1E7151208808F2003C6368 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FE1E7150208808F2003C6368 /* GoogleService-Info.plist */; };
+		FE21A57C207BA41A005BE816 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = FE21A57E207BA41A005BE816 /* Localizable.strings */; };
+		FE21A596207BC9DC005BE816 /* Museo300-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE21A592207BC9DB005BE816 /* Museo300-Regular.otf */; };
+		FE21A597207BC9DC005BE816 /* Museo500-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE21A593207BC9DB005BE816 /* Museo500-Regular.otf */; };
+		FE21A598207BC9DC005BE816 /* Museo700-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE21A594207BC9DB005BE816 /* Museo700-Regular.otf */; };
+		FE21A599207BC9DC005BE816 /* Museo900-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE21A595207BC9DB005BE816 /* Museo900-Regular.otf */; };
+		FE6704872036CB2B009FC255 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6704862036CB2B009FC255 /* AppDelegate.m */; };
+		FE67048D2036CB2B009FC255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE67048B2036CB2B009FC255 /* Main.storyboard */; };
+		FE67048F2036CB2B009FC255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE67048E2036CB2B009FC255 /* Assets.xcassets */; };
+		FE6704952036CB2B009FC255 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6704942036CB2B009FC255 /* main.m */; };
+		FE67049D2036CB73009FC255 /* OYUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FE67049B2036CB73009FC255 /* OYUtils.m */; };
+		FE6704A22036CF1F009FC255 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6704A12036CF1F009FC255 /* HomeViewController.m */; };
+		FE6704A52036CF24009FC255 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6704A42036CF24009FC255 /* GameViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		21E8441EB102B89D5C4372F8 /* Pods-FilmiBul.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FilmiBul.release.xcconfig"; path = "Pods/Target Support Files/Pods-FilmiBul/Pods-FilmiBul.release.xcconfig"; sourceTree = "<group>"; };
+		22ABE246A0255AE2F274B23B /* Pods-FilmiBul.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FilmiBul.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FilmiBul/Pods-FilmiBul.debug.xcconfig"; sourceTree = "<group>"; };
+		8A828231B4F1EECCEBE1E0A6 /* libPods-FilmiBul.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FilmiBul.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9021BB68203D7096009F9DEA /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
+		90EC2A1C20440993002F4021 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		90EC2A1D20440993002F4021 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		90EC2A1F204410DB002F4021 /* AboutUsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AboutUsViewController.h; sourceTree = "<group>"; };
+		90EC2A20204410DB002F4021 /* AboutUsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AboutUsViewController.m; sourceTree = "<group>"; };
+		90F2B686203C1ED80037488C /* SubmitQuestionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubmitQuestionViewController.h; sourceTree = "<group>"; };
+		90F2B687203C1ED80037488C /* SubmitQuestionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubmitQuestionViewController.m; sourceTree = "<group>"; };
+		90F2B689203C2C4D0037488C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		90F2B68B203C2D050037488C /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		90F2B68C203C2D050037488C /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		FE1E713B208675BD003C6368 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE1E7142208739BF003C6368 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FE1E7144208739C0003C6368 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FE1E714620874C19003C6368 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		FE1E7150208808F2003C6368 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		FE21A57D207BA41A005BE816 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		FE21A57F207BA427005BE816 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		FE21A592207BC9DB005BE816 /* Museo300-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Museo300-Regular.otf"; sourceTree = "<group>"; };
+		FE21A593207BC9DB005BE816 /* Museo500-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Museo500-Regular.otf"; sourceTree = "<group>"; };
+		FE21A594207BC9DB005BE816 /* Museo700-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Museo700-Regular.otf"; sourceTree = "<group>"; };
+		FE21A595207BC9DB005BE816 /* Museo900-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Museo900-Regular.otf"; sourceTree = "<group>"; };
+		FE21A59A207BCDE4005BE816 /* TODO.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TODO.h; sourceTree = "<group>"; };
+		FE6704822036CB2B009FC255 /* FilmiBul.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FilmiBul.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE6704852036CB2B009FC255 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FE6704862036CB2B009FC255 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FE67048C2036CB2B009FC255 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FE67048E2036CB2B009FC255 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FE6704942036CB2B009FC255 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FE67049B2036CB73009FC255 /* OYUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OYUtils.m; sourceTree = "<group>"; };
+		FE67049C2036CB73009FC255 /* OYUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OYUtils.h; sourceTree = "<group>"; };
+		FE6704A02036CF1F009FC255 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		FE6704A12036CF1F009FC255 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		FE6704A32036CF24009FC255 /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		FE6704A42036CF24009FC255 /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		FE7698C4207506640019E11A /* Questions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Questions.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FE67047F2036CB2B009FC255 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				90F2B68A203C2C4D0037488C /* SystemConfiguration.framework in Frameworks */,
+				98A3D0CBA534BBD8C63BCD61 /* libPods-FilmiBul.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		99AA3A1045470A579791649C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				90F2B689203C2C4D0037488C /* SystemConfiguration.framework */,
+				8A828231B4F1EECCEBE1E0A6 /* libPods-FilmiBul.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A9EC36A9FE6B954CEF4CB2B5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				22ABE246A0255AE2F274B23B /* Pods-FilmiBul.debug.xcconfig */,
+				21E8441EB102B89D5C4372F8 /* Pods-FilmiBul.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FE21A591207BC9DB005BE816 /* MuseoRegular */ = {
+			isa = PBXGroup;
+			children = (
+				FE21A592207BC9DB005BE816 /* Museo300-Regular.otf */,
+				FE21A593207BC9DB005BE816 /* Museo500-Regular.otf */,
+				FE21A594207BC9DB005BE816 /* Museo700-Regular.otf */,
+				FE21A595207BC9DB005BE816 /* Museo900-Regular.otf */,
+			);
+			path = MuseoRegular;
+			sourceTree = "<group>";
+		};
+		FE6704792036CB2B009FC255 = {
+			isa = PBXGroup;
+			children = (
+				FE6704842036CB2B009FC255 /* FilmiBul */,
+				FE6704832036CB2B009FC255 /* Products */,
+				A9EC36A9FE6B954CEF4CB2B5 /* Pods */,
+				99AA3A1045470A579791649C /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		FE6704832036CB2B009FC255 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FE6704822036CB2B009FC255 /* FilmiBul.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FE6704842036CB2B009FC255 /* FilmiBul */ = {
+			isa = PBXGroup;
+			children = (
+				FE21A59A207BCDE4005BE816 /* TODO.h */,
+				FE6704852036CB2B009FC255 /* AppDelegate.h */,
+				FE6704862036CB2B009FC255 /* AppDelegate.m */,
+				FE67048B2036CB2B009FC255 /* Main.storyboard */,
+				FE67049E2036CBAE009FC255 /* Utilities */,
+				FE67049F2036CF0B009FC255 /* ViewControllers */,
+				FEB2B6C3203ADE4100C6A7FF /* Supporting Files */,
+			);
+			path = FilmiBul;
+			sourceTree = "<group>";
+		};
+		FE67049E2036CBAE009FC255 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				FE67049C2036CB73009FC255 /* OYUtils.h */,
+				FE67049B2036CB73009FC255 /* OYUtils.m */,
+				90F2B68C203C2D050037488C /* Reachability.h */,
+				90F2B68B203C2D050037488C /* Reachability.m */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		FE67049F2036CF0B009FC255 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				FE6704A02036CF1F009FC255 /* HomeViewController.h */,
+				FE6704A12036CF1F009FC255 /* HomeViewController.m */,
+				FE6704A32036CF24009FC255 /* GameViewController.h */,
+				FE6704A42036CF24009FC255 /* GameViewController.m */,
+				90F2B686203C1ED80037488C /* SubmitQuestionViewController.h */,
+				90F2B687203C1ED80037488C /* SubmitQuestionViewController.m */,
+				90EC2A1C20440993002F4021 /* SettingsViewController.h */,
+				90EC2A1D20440993002F4021 /* SettingsViewController.m */,
+				90EC2A1F204410DB002F4021 /* AboutUsViewController.h */,
+				90EC2A20204410DB002F4021 /* AboutUsViewController.m */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		FEB2B6C3203ADE4100C6A7FF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FE1E714620874C19003C6368 /* Launch Screen.storyboard */,
+				FE1E713B208675BD003C6368 /* Info.plist */,
+				FE1E7150208808F2003C6368 /* GoogleService-Info.plist */,
+				FE67048E2036CB2B009FC255 /* Assets.xcassets */,
+				FE21A591207BC9DB005BE816 /* MuseoRegular */,
+				9021BB68203D7096009F9DEA /* Sounds */,
+				FE1E7143208739BF003C6368 /* InfoPlist.strings */,
+				FE21A57E207BA41A005BE816 /* Localizable.strings */,
+				FE7698C4207506640019E11A /* Questions.json */,
+				FE6704942036CB2B009FC255 /* main.m */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FE6704812036CB2B009FC255 /* FilmiBul */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FE6704982036CB2B009FC255 /* Build configuration list for PBXNativeTarget "FilmiBul" */;
+			buildPhases = (
+				20EA1FE95034E0635741A91D /* [CP] Check Pods Manifest.lock */,
+				FE67047E2036CB2B009FC255 /* Sources */,
+				FE67047F2036CB2B009FC255 /* Frameworks */,
+				FE6704802036CB2B009FC255 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FilmiBul;
+			productName = FilmiBul;
+			productReference = FE6704822036CB2B009FC255 /* FilmiBul.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FE67047A2036CB2B009FC255 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = UpApp;
+				TargetAttributes = {
+					FE6704812036CB2B009FC255 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = FE67047D2036CB2B009FC255 /* Build configuration list for PBXProject "FilmiBul" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				tr,
+			);
+			mainGroup = FE6704792036CB2B009FC255;
+			productRefGroup = FE6704832036CB2B009FC255 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FE6704812036CB2B009FC255 /* FilmiBul */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FE6704802036CB2B009FC255 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE21A598207BC9DC005BE816 /* Museo700-Regular.otf in Resources */,
+				FE1E7141208739BF003C6368 /* InfoPlist.strings in Resources */,
+				FE21A597207BC9DC005BE816 /* Museo500-Regular.otf in Resources */,
+				9021BB69203D7096009F9DEA /* Sounds in Resources */,
+				FE21A599207BC9DC005BE816 /* Museo900-Regular.otf in Resources */,
+				FE1E7151208808F2003C6368 /* GoogleService-Info.plist in Resources */,
+				FE1E714720874C19003C6368 /* Launch Screen.storyboard in Resources */,
+				FE21A57C207BA41A005BE816 /* Localizable.strings in Resources */,
+				FE1E713C208675BD003C6368 /* Info.plist in Resources */,
+				FE67048F2036CB2B009FC255 /* Assets.xcassets in Resources */,
+				FE21A596207BC9DC005BE816 /* Museo300-Regular.otf in Resources */,
+				FE67048D2036CB2B009FC255 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		20EA1FE95034E0635741A91D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FilmiBul-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FE67047E2036CB2B009FC255 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				90EC2A21204410DB002F4021 /* AboutUsViewController.m in Sources */,
+				FE6704A52036CF24009FC255 /* GameViewController.m in Sources */,
+				90F2B688203C1ED80037488C /* SubmitQuestionViewController.m in Sources */,
+				90F2B68D203C2D050037488C /* Reachability.m in Sources */,
+				90EC2A1E20440993002F4021 /* SettingsViewController.m in Sources */,
+				FE67049D2036CB73009FC255 /* OYUtils.m in Sources */,
+				FE6704952036CB2B009FC255 /* main.m in Sources */,
+				FE6704872036CB2B009FC255 /* AppDelegate.m in Sources */,
+				FE6704A22036CF1F009FC255 /* HomeViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FE1E7143208739BF003C6368 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FE1E7142208739BF003C6368 /* en */,
+				FE1E7144208739C0003C6368 /* tr */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FE21A57E207BA41A005BE816 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FE21A57D207BA41A005BE816 /* en */,
+				FE21A57F207BA427005BE816 /* tr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		FE67048B2036CB2B009FC255 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FE67048C2036CB2B009FC255 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FE6704962036CB2B009FC255 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FE6704972036CB2B009FC255 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FE6704992036CB2B009FC255 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 22ABE246A0255AE2F274B23B /* Pods-FilmiBul.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Orcun Yuksel (ZS3M6469LM)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/FilmiBul/Supporting Files/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.upapp.FilmiBul;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		FE67049A2036CB2B009FC255 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 21E8441EB102B89D5C4372F8 /* Pods-FilmiBul.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Orcun Yuksel (ZS3M6469LM)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/FilmiBul/Supporting Files/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.upapp.FilmiBul;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FE67047D2036CB2B009FC255 /* Build configuration list for PBXProject "FilmiBul" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE6704962036CB2B009FC255 /* Debug */,
+				FE6704972036CB2B009FC255 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FE6704982036CB2B009FC255 /* Build configuration list for PBXNativeTarget "FilmiBul" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FE6704992036CB2B009FC255 /* Debug */,
+				FE67049A2036CB2B009FC255 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FE67047A2036CB2B009FC255 /* Project object */;
+}

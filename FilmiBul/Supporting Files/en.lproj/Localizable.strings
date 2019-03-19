@@ -1,0 +1,116 @@
+/*
+ Localized.strings
+ FilmiBul
+ 
+ Created by Orcun Yuksel on 09/04/2018.
+ Copyright © 2018 UpApp. All rights reserved.
+ */
+
+
+// Home
+//===============================
+
+"logo" = "logo";
+
+"about" = "ABOUT US";
+
+"submit" = "SUBMIT QUESTION";
+
+
+// Settings
+//===============================
+
+"sound" = "CORRECT/WRONG SOUND";
+
+"music" = "APPLICATION MUSIC";
+
+"ads" = "SHOW ADS";
+
+"language" = "CHANGE LANGUAGE";
+
+// About
+//===============================
+
+"rate" = "RATE APPLICATION";
+
+"shareApp" = "SHARE APPLICATION";
+
+"feedback" = "ASK QUESTION / GIVE FEEDBACK";
+
+"version" = "Application Version:";
+
+"company" = "UpApp Software ⓒ - 2017";
+
+// Submit
+//===============================
+
+"emoji" = "Question as emoji";
+
+"answer" = "Answer ";
+
+// Score
+//===============================
+
+"time" = "TIME IS OVER";
+
+"score" = "SCORE";
+
+"correct" = "Correct";
+
+"false" = "Wrong";
+
+"share" = "SHARE SCORE";
+
+// Report
+//===============================
+
+"report" = "You are going to report a question. Are you sure about it ?";
+
+"yes" = "Yes";
+
+"cancel" = "Cancel";
+
+// Alert Messages
+//===============================
+
+"message" = "Thanks for the feedback we will reply as soon as possible";
+
+"oyea" = "OYeaa";
+
+"title reply" = "Okey Buddy";
+
+"update" = "You need to update for use this application.";
+
+"updateTitle" = "Update";
+
+"connection" = "Check Your Internet Connection And Try Again. ";
+
+"conenctionTitle" = "Error";
+
+"submitQuestionMessage" = "You Should Fill All The Blanks.";
+
+"submitQuestionMessageTitle" = "Ups";
+
+"submitQuestionRightAnswer" = "You Should Choose the Right Answer";
+
+"submitQuestionRightAnswerTitle" = "It's a Shame";
+
+"submitted" = "No problem. It can be taken after the assessment is made. We will add it to the development notes if it is posted.";
+
+"okey" = "Okey Dude";
+
+"later" = "No Thanks";
+
+"oley" = "Hooray!";
+
+"reportQuestion" = "Are you sure to submit this question as faulty ?";
+
+"reportQuestionOkay" = "Your question has reported for view. We will check dude thank you";
+
+"newversion" = "There is a new version of the application. Dude Update now!";
+
+"mustupdate" = "You must update the application to use it dude.";
+
+"update" = "Update";
+
+"shareGame" = "Dude there is a perfect game , i think you should download it.";

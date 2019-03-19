@@ -1,0 +1,69 @@
+/*
+ Localized.strings
+ FilmiBul
+ 
+ Created by Orcun Yuksel on 09/04/2018.
+ Copyright © 2018 UpApp. All rights reserved.
+ */
+
+// Home
+//===============================
+
+//"logo" = "logo";
+
+"about" = "ABOUT US";
+
+"submit" = "SUBMIT QUESTION";
+
+
+// Settings
+//===============================
+
+"sound" = "CORRECT/FALSE SOUND";
+
+"music" = "APPLICATION MUSIC";
+
+"ads" = "SHOW ADS";
+
+"language" = "CHANGE LANGUAGE";
+
+// About
+//===============================
+
+"rate" = "RATE APPLICATION";
+
+"feedback" = "ASK QUESTION / GIVE FEEDBACK";
+
+"version" = "Application Version:";
+
+"company" = "UpApp Software ⓒ - 2017";
+
+// Submit
+//===============================
+
+"emoji" = "Question as emoji";
+
+"answer" = "Answer ";
+
+// Score
+//===============================
+
+"time" = "TIME IS OVER";
+
+"score" = "SCORE";
+
+"correct" = "Correct";
+
+"false" = "False";
+
+"share" = "SHARE SCORE";
+
+// Report
+//===============================
+
+"report" = "You are going to report a question. Are you sure about it ?";
+
+"yes" = "Yes";
+
+"cancel" = "Cancel";
+

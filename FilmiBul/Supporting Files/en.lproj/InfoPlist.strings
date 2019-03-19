@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  FilmiBul
+
+  Created by Orcun Yuksel on 18/04/2018.
+  Copyright © 2018 UpApp. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Emovi";
+
+"CFBundleName" = "Emovi";
+
+"NSPhotoLibraryUsageDescription" = "You need to give permission to save photo to library.";

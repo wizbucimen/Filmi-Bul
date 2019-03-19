@@ -1,0 +1,71 @@
+/*
+ Localized.strings
+ FilmiBul
+ 
+ Created by Orcun Yuksel on 09/04/2018.
+ Copyright © 2018 UpApp. All rights reserved.
+ */
+
+"about" = "HAKKIMIZDA";
+
+"submit" = "SORU ÖNER";
+
+
+
+
+"sound" = "Doğru/Yanlış Sesi";
+
+"music" = "Uygulama Müziği";
+
+"ads" = "Reklamları Göster";
+
+"language" = "Dili Değiştir";
+
+
+
+
+"rate" = "UYGULAMAYI PUANLA";
+
+"feedback" = "SORU VE GÖRÜŞLERİNİZ İÇİN";
+
+"version" = "Uygulama Versiyonu: ";
+
+"company" = "UpApp Yazılım ⓒ - 2017";
+
+
+
+
+"emoji" = "Soruyu emoji şeklinde giriniz.";
+
+"answer" = "Cevap ";
+
+
+
+
+
+
+"time" = "SÜRE BİTTİ";
+
+"score" = "PUAN";
+
+"correct" = "Doğru";
+
+"false" = "Yanlış";
+
+"share" = "SKORUNU PAYLAŞ";
+
+
+
+
+
+
+"report" = "Hatalı Soru Bildir";
+
+"yes" = "Evet";
+
+"cancel" = "Kapat";
+
+"version" = "Uygulama Versiyonu: ";
+
+"company" = "UpApp Yazılım ⓒ - 2017";
+

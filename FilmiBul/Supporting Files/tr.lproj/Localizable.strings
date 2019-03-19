@@ -1,0 +1,111 @@
+/*
+ Localized.strings
+ FilmiBul
+ 
+ Created by Orcun Yuksel on 09/04/2018.
+ Copyright © 2018 UpApp. All rights reserved.
+ */
+
+
+// Home
+//===============================
+
+"logo" = "logo";
+
+"about" = "HAKKIMIZDA";
+
+"submit" = "SORU ÖNER";
+
+
+// Settings
+//===============================
+
+"sound" = "DOĞRU/YANLIŞ SESİ";
+
+"music" = "UYGULAMA MÜZİĞİ";
+
+"ads" = "REKLAMLARI GÖSTER";
+
+"language" = "DİLİ DEĞİŞTİR";
+
+// About
+//===============================
+
+"rate" = "UYGULAMAYI PUANLA";
+
+"shareApp" = "UYGULAMAYI PAYLAŞ";
+
+"feedback" = "SORU VE GÖRÜŞLERİNİZ İÇİN";
+
+"version" = "Uygulama Versiyonu: ";
+
+"company" = "UpApp Yazılım ⓒ - 2017";
+
+// Submit
+//===============================
+
+"emoji" = "Soruyu emoji şeklinde giriniz.";
+
+"answer" = "Cevap ";
+
+// Score
+//===============================
+
+"time" = "SÜRE BİTTİ";
+
+"score" = "PUAN";
+
+"correct" = "Doğru";
+
+"false" = "Yanlış";
+
+"share" = "SKORUNU PAYLAŞ";
+
+// Report
+//===============================
+
+"report" = "Hatalı Soru Bildir";
+
+"yes" = "Evet";
+
+"cancel" = "Kapat";
+
+"Application Version" = "Uygulama Versiyonu: ";
+
+"company" = "UpApp Yazılım ⓒ - 2017";
+
+"update" = "Uygulamayı kullanabilmek için güncel sürümünü indirin. ";
+
+"updateTitle" = "Güncelleme";
+
+"connection" = "İnternet bağlantınızı kontrol edip tekrar deneyiniz.";
+
+"connectionTitle" = "emHata" ;
+
+"submitQuestionMessage" = "Bütün Alanları Doldurmalısın kanka.";
+
+"submitQuestionMessageTitle" = "Aaaaa Çok Ayıp Ama";
+
+"submitQuestionRightAnswer" = "Doğru Cevabı Seçmelisin Kanka";
+
+"submitQuestionRightAnswerTitle" = "Aaaaa Çok Ayıp Ama";
+
+"submitted" = "Sorunuz iletilmiştir. Değerlendirme yapıldıktan sonra yayına alınabilir. Yayına alınırsa geliştirme notlarına ekleyeceğiz";
+
+"reportQuestion" = "Soruyu Şikayet etmek istediğinize emin misiniz ?";
+
+"reportQuestionOkay" = "Hatalı soru değerlendirilmek üzere tarafımıza iletilmiştir. Bakıcaz kanka teşekkür ederiz.";
+
+"okey" = "Eminim";
+
+"later" = "Daha Sonra";
+
+"oley" = "Oley!";
+
+"mustupdate" = "Uygulamayı kullanabilmek için güncel sürümü indirmen gerekiyor kanka.";
+
+"newversion" = "Uygulamayı güncelledik, yeni sürümü indir bence kanka.";
+
+"update" = "Güncelleme";
+
+"shareGame" = "Kanka mükemmel bir oyun var. Bence indirmelisin.";

@@ -1,0 +1,3001 @@
+[ {
+   "answers_en" : {
+   "a" : "Flash",
+   "b" : "Harry Potter",
+   "c" : "Spider-Man",
+   "d" : "The Nutty Professor"
+   },
+   "answers_tr" : {
+   "a" : "Flash",
+   "b" : "Harry Potter",
+   "c" : "Spider-Man",
+   "d" : "Ismail YK"
+   },
+   "correct_answer" : "b",
+   "question" : "🙍🏼‍♂️  👓 ⚡️"
+   }, {
+   "answers_en" : {
+   "a" : "Corpse Bride",
+   "b" : "Happy Death Day",
+   "c" : "Kill Bill",
+   "d" : "King Arthur"
+   },
+   "answers_tr" : {
+   "a" : "Adini Feriha Koydum",
+   "b" : "Yaprak Dokumu",
+   "c" : "Kill Bill",
+   "d" : "Ask-i Memnu"
+   },
+   "correct_answer" : "c",
+   "question" : "👰 ⚔️ ☠️ 👱"
+   }, {
+   "answers_en" : {
+   "a" : "Big Fish",
+   "b" : "Finding Nemo",
+   "c" : "Underworld",
+   "d" : "JAWS"
+   },
+   "answers_tr" : {
+   "a" : "Baliklar Vadisi",
+   "b" : "Kayip Balik Nemo",
+   "c" : "Yeralti Dunyasi",
+   "d" : "JAWS"
+   },
+   "correct_answer" : "b",
+   "question" : "🔍 🐟"
+   }, {
+   "answers_en" : {
+   "a" : "101 Dalmatians",
+   "b" : "Isle of Dogs",
+   "c" : "Cujo",
+   "d" : "Home Alone"
+   },
+   "answers_tr" : {
+   "a" : "101 Dalmacyali",
+   "b" : "Kurtlar Vadisi",
+   "c" : "Garip Kont",
+   "d" : "Comar"
+   },
+   "correct_answer" : "a",
+   "question" : "1️⃣ 0️⃣ 1️⃣ 🐶"
+   }, {
+   "answers_en" : {
+   "a" : "Inglourious Basterds",
+   "b" : "Hitman",
+   "c" : "The Wolf of Wall Street",
+   "d" : "James Bond"
+   },
+   "answers_tr" : {
+   "a" : "Soysuzlar Çetesi",
+   "b" : "Hitman",
+   "c" : "Para Avcısı",
+   "d" : "James Bond"
+   },
+   "correct_answer" : "c",
+   "question" : "📈 💰 🐺 😎"
+   }, {
+   "answers_en" : {
+   "a" : "Blue Is The Warmest Colour",
+   "b" : "Titanic",
+   "c" : "Ex Machina",
+   "d" : "Fifty Shades of Grey"
+   },
+   "answers_tr" : {
+   "a" : "Mavi En Sıcak Renktir",
+   "b" : "Titanic",
+   "c" : "Mavi Mavi Masmavi",
+   "d" : "Grinin Elli Tonu"
+   },
+   "correct_answer" : "a",
+   "question" : "💕 💙 👩‍❤‍👩 💋 ♋ 🌀 👩‍❤‍👩"
+   }, {
+   "answers_en" : {
+   "a" : "The Transporter",
+   "b" : "Fast and Furious",
+   "c" : "Torque",
+   "d" : "The Italian Job"
+   },
+   "answers_tr" : {
+   "a" : "Taşıyıcı",
+   "b" : "Hızlı ve Öfkeli",
+   "c" : "Torque",
+   "d" : "İtalyan İşi"
+   },
+   "correct_answer" : "d",
+   "question" : "🇮🇹 💰 🚗"
+   }, {
+   "answers_en" : {
+   "a" : "Baby Driver",
+   "b" : "The Hitchhiker's Guide to the Galaxy",
+   "c" : "The Martian",
+   "d" : "Baby's Day Out"
+   },
+   "answers_tr" : {
+   "a" : "Bebek Sürücü",
+   "b" : "Otostopçunun Galaksi Rehberi",
+   "c" : "Marslı",
+   "d" : "Bebek Firarda"
+   },
+   "correct_answer" : "a",
+   "question" : "🍼 👶🏻 🚗"
+   }, {
+   "answers_en" : {
+   "a" : "The Silence of the Lambs",
+   "b" : "The Ring",
+   "c" : "The Butterfly Effect",
+   "d" : "Road Trip"
+   },
+   "answers_tr" : {
+   "a" : "Kuzuların Sessizliği",
+   "b" : "Halka",
+   "c" : "Kelebek Etkisi",
+   "d" : "Taşıyıcı"
+   },
+   "correct_answer" : "a",
+   "question" : "🐑 🤫"
+   }, {
+   "answers_en" : {
+   "a" : "The Wizard of Oz",
+   "b" : "The Lives of Others",
+   "c" : "Back to the Future",
+   "d" : "The Curious Case of Benjamin Button"
+   },
+   "answers_tr" : {
+   "a" : "Oz Büyücüsü",
+   "b" : "Başkalarının Hayatı",
+   "c" : "Geleceğe Dönüş",
+   "d" : "Benjamin Button'un Tuhaf Hikayesi"
+   },
+   "correct_answer" : "d",
+   "question" : "👴🏻 👨🏻 👱🏻 👶🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Tiger Zinda Hai",
+   "b" : "Noah",
+   "c" : "Atlantis",
+   "d" : "Life of Pi"
+   },
+   "answers_tr" : {
+   "a" : "Titanic",
+   "b" : "Nuh Büyük Tufan",
+   "c" : "Atlantis 2001",
+   "d" : "Pi'nin Yaşamı"
+   },
+   "correct_answer" : "d",
+   "question" : "🐅 👳 🛶"
+   }, {
+   "answers_en" : {
+   "a" : "The Lord of the Rings",
+   "b" : "Pirates of the Caribbean",
+   "c" : "Game of Thrones",
+   "d" : "Pompeii"
+   },
+   "answers_tr" : {
+   "a" : "Yüzüklerin Efendisi",
+   "b" : "Karayip Korsanları",
+   "c" : "Taht Oyunları",
+   "d" : "Dağ"
+   },
+   "correct_answer" : "a",
+   "question" : "💍 ⚔️ 🌋"
+   }, {
+   "answers_en" : {
+   "a" : "Jurassic Park",
+   "b" : "Ninja Turtles",
+   "c" : "Stuart Little",
+   "d" : "Monster, Inc."
+   },
+   "answers_tr" : {
+   "a" : "Jurassic Park",
+   "b" : "Ninja Kaplumbağalar",
+   "c" : "Kaybedenler Kulübü",
+   "d" : "Sevimli Hayvanlar"
+   },
+   "correct_answer" : "b",
+   "question" : "🐢 🐢 🐢 🐢 🐀 🍕"
+   }, {
+   "answers_en" : {
+   "a" : "The Italian Job",
+   "b" : "Escobar",
+   "c" : "The Godfather",
+   "d" : "American Pie"
+   },
+   "answers_tr" : {
+   "a" : "Kürk",
+   "b" : "İtalyan İşi",
+   "c" : "Baba",
+   "d" : "Çılgın Dershane"
+   },
+   "correct_answer" : "c",
+   "question" : "🇺🇸 🇮🇹 🔪 💣"
+   }, {
+   "answers_en" : {
+   "a" : "Rise of the Planet of the Apes",
+   "b" : "Three Monkeys",
+   "c" : "Jumanji",
+   "d" : "Beauty and the Beast"
+   },
+   "answers_tr" : {
+   "a" : "Maymunlar Cehennemi",
+   "b" : "3 Maymun",
+   "c" : "Çılgın Dershane",
+   "d" : "Güzel ve Çirkin"
+   },
+   "correct_answer" : "a",
+   "question" : "🔥 🐒 🔥"
+   }, {
+   "answers_en" : {
+   "a" : "Rise of the Planet of the Apes",
+   "b" : "The Lion King",
+   "c" : "Madagaskar",
+   "d" : "Noah"
+   },
+   "answers_tr" : {
+   "a" : "Maymunlar Cehennemi",
+   "b" : "Aslan Kral",
+   "c" : "Madagaskar",
+   "d" : "Nuh Tufanı"
+   },
+   "correct_answer" : "c",
+   "question" : "🦁 🦓 🦒 🐻"
+   }, {
+   "answers_en" : {
+   "a" : "Band Of Brothers",
+   "b" : "A Star Is Born",
+   "c" : "Gun Fight",
+   "d" : "Star Wars"
+   },
+   "answers_tr" : {
+   "a" : "Kardeşler Takımı",
+   "b" : "Bir Yıldız Doğuyor",
+   "c" : "Ejder Kapanı",
+   "d" : "Yıldız Savaşları"
+   },
+   "correct_answer" : "d",
+   "question" : "⭐️ 🔫 🗡 💣"
+   }, {
+   "answers_en" : {
+   "a" : "Twilight",
+   "b" : "Dracula",
+   "c" : "Penny Dreadful",
+   "d" : "Vampire Diaries"
+   },
+   "answers_tr" : {
+   "a" : "Alacakaranlık",
+   "b" : "Hababam Sınıfı 3.5",
+   "c" : "Tarkan Gümüş Eğer",
+   "d" : "Kara Murat"
+   },
+   "correct_answer" : "a",
+   "question" : "🌓 💑 🐺"
+   }, {
+   "answers_en" : {
+   "a" : "The Revenant",
+   "b" : "X men",
+   "c" : "Matrix",
+   "d" : "The Ugly Truth"
+   },
+   "answers_tr" : {
+   "a" : "7 Kocalı Hürmüz",
+   "b" : "X men",
+   "c" : "O Şimdi Asker",
+   "d" : "Açlık Oyunları"
+   },
+   "correct_answer" : "b",
+   "question" : "𝗫 👨🏻 👨🏻 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "The Holiday",
+   "b" : "A Nightmare on Elm Street",
+   "c" : "The Santa Clause",
+   "d" : "Home Alone"
+   },
+   "answers_tr" : {
+   "a" : "Ev",
+   "b" : "Sümelanın Şifresi 3",
+   "c" : "Kardeşim Benim",
+   "d" : "Evde Tek Başına"
+   },
+   "correct_answer" : "d",
+   "question" : "🏡 😳 🎄 🙍‍♂️"
+   }, {
+   "answers_en" : {
+   "a" : "Old Boy",
+   "b" : "The Matrix",
+   "c" : "Million Dolar Baby",
+   "d" : "Up"
+   },
+   "answers_tr" : {
+   "a" : "İyi Kötü Çirkin",
+   "b" : "Matrix",
+   "c" : "Şimdi Ya da Asla",
+   "d" : "Limit Yok"
+   },
+   "correct_answer" : "b",
+   "question" : "🔴 🆚 🔵 💊"
+   },{
+   "answers_en" : {
+   "a" : "Everest",
+   "b" : "The Martian",
+   "c" : "Due Date",
+   "d" : "127 Hours"
+   },
+   "answers_tr" : {
+   "a" : "Everest",
+   "b" : "Marslı",
+   "c" : "Git Başımdan",
+   "d" : "127 Saat"
+   },
+   "correct_answer" : "d",
+   "question" : "1️⃣ 2️⃣ 7️⃣ 🕔"
+   }, {
+   "answers_en" : {
+   "a" : "Final Destination",
+   "b" : "The Godfather",
+   "c" : "Saw",
+   "d" : "The Rİng"
+   },
+   "answers_tr" : {
+   "a" : "Son Durak",
+   "b" : "Baba",
+   "c" : "Testere",
+   "d" : "Halka"
+   },
+   "correct_answer" : "c",
+   "question" : "🚲 ☠️ 🔪"
+   }, {
+   "answers_en" : {
+   "a" : "Happy Death Day",
+   "b" : "Bad Moms",
+   "c" : "Saw",
+   "d" : "IT"
+   },
+   "answers_tr" : {
+   "a" : "Ölüm Günün Kutlu Olsun",
+   "b" : "Eyvah Annem Dağıttı",
+   "c" : "Testere",
+   "d" : "IT"
+   },
+   "correct_answer" : "a",
+   "question" : "🎂 👩🏼 🔪"
+   }, {
+   "answers_en" : {
+   "a" : "Murder on the Orient Express",
+   "b" : "Trainspotting",
+   "c" : "Hitman",
+   "d" : "Jumanji"
+   },
+   "answers_tr" : {
+   "a" : "Doğu Ekspresinde Cinayet",
+   "b" : "Trainspotting",
+   "c" : "Hitman",
+   "d" : "Jumanji"
+   },
+   "correct_answer" : "b",
+   "question" : "🚂 👀"
+   }, {
+   "answers_en" : {
+   "a" : "Vanilla Sky",
+   "b" : "Nerve",
+   "c" : "Vampire Academy",
+   "d" : "Inception"
+   },
+   "answers_tr" : {
+   "a" : "Vanilla Sky",
+   "b" : "Recep İvedik",
+   "c" : "Vampir Akademisi",
+   "d" : "Başlangıç"
+   },
+   "correct_answer" : "d",
+   "question" : "💡 ➡️ 😴"
+   }, {
+   "answers_en" : {
+   "a" : "Rise of the Planet of the Apes",
+   "b" : "V for Vendetta",
+   "c" : "Shaun of the Dead",
+   "d" : "Beerfest"
+   },
+   "answers_tr" : {
+   "a" : "Sherlock Holmes",
+   "b" : "V for Vendetta",
+   "c" : "Zombilerin Şafağı",
+   "d" : "G.O.R.A."
+   },
+   "correct_answer" : "b",
+   "question" : "🇬🇧 🎭 💣 💥"
+   }, {
+   "answers_en" : {
+   "a" : "The Big Lebowski",
+   "b" : "No Country for Old Men",
+   "c" : "Anchorman",
+   "d" : "Once Upon a Time in America"
+   },
+   "answers_tr" : {
+   "a" : "The Big Lebowski",
+   "b" : "Ihtiyarlara Yer Yok",
+   "c" : "Eşkiya",
+   "d" : "Bir Zamanlar Amerika"
+   },
+   "correct_answer" : "a",
+   "question" : "⬆️ 👨🏻 🎳 🔫"
+   }, {
+   "answers_en" : {
+   "a" : "Fast and Furious",
+   "b" : "The Lion King",
+   "c" : "Me Before You",
+   "d" : "Braveheart"
+   },
+   "answers_tr" : {
+   "a" : "Hızlı ve Öfkeli",
+   "b" : "Dünyayı Kurtaran Adam",
+   "c" : "Senden Önce Ben",
+   "d" : "Cesur Yürek"
+   },
+   "correct_answer" : "d",
+   "question" : "💪🏻 ❤️"
+   }, {
+   "answers_en" : {
+   "a" : "Rise of the Planet of the Apes",
+   "b" : "Aliens",
+   "c" : "Die Hard",
+   "d" : "Notebook"
+   },
+   "answers_tr" : {
+   "a" : "Recep İvedik",
+   "b" : "Yaratığın Dönüşü",
+   "c" : "Zor Ölüm",
+   "d" : "Not Defteri"
+   },
+   "correct_answer" : "b",
+   "question" : "👽 👽 👽"
+   }, {
+   "answers_en" : {
+   "a" : "The Wizard of Oz",
+   "b" : "Monsters Inc",
+   "c" : "Underworld",
+   "d" : "21"
+   },
+   "answers_tr" : {
+   "a" : "Oz Büyücüsü",
+   "b" : "Sevimli Canavarlar",
+   "c" : "Sihirli Annem",
+   "d" : "21"
+   },
+   "correct_answer" : "a",
+   "question" : "🎩 ✨ ✳️ 🌆"
+   }, {
+   "answers_en" : {
+   "a" : "21",
+   "b" : "Superman",
+   "c" : "Legally Blonde",
+   "d" : "Never Back Down"
+   },
+   "answers_tr" : {
+   "a" : "13",
+   "b" : "Dabbe",
+   "c" : "Bu Nasıl Sarışın",
+   "d" : "Asla Pes Etme"
+   },
+   "correct_answer" : "d",
+   "question" : "🙅🏼 ⬅️ ⬇️ 🥊"
+   }, {
+   "answers_en" : {
+   "a" : "13 Going on 30",
+   "b" : "Wonder Woman",
+   "c" : "Bride Wars",
+   "d" : "Miss Congeniality"
+   },
+   "answers_tr" : {
+   "a" : "Keşke 30 Olsam",
+   "b" : "Wonder Woman",
+   "c" : "Gelinlerin Savaşı",
+   "d" : "Yabancı Damat"
+   },
+   "correct_answer" : "c",
+   "question" : "👰🏻 🆚 👰🏼"
+   }, {
+   "answers_en" : {
+   "a" : "Space Jam",
+   "b" : "Goal!",
+   "c" : "Superbad",
+   "d" : "Basketball Diaries"
+   },
+   "answers_tr" : {
+   "a" : "Space Jam",
+   "b" : "Gol!",
+   "c" : "Arka Sıradakiler",
+   "d" : "Basketbol Günlükleri"
+   },
+   "correct_answer" : "d",
+   "question" : "🏀 📖"
+   }, {
+   "answers_en" : {
+   "a" : "Midnight in Paris",
+   "b" : "To Rome with Love",
+   "c" : "Vicky Cristina Barcelona",
+   "d" : "Love Actually"
+   },
+   "answers_tr" : {
+   "a" : "Paris'te Gece Yarısı",
+   "b" : "Roma'ya Sevgilerle",
+   "c" : "Berselona, Barselona",
+   "d" : "Aşk Her Yerde"
+   },
+   "correct_answer" : "b",
+   "question" : "➡️ 🇮🇹 ➡️ ❤️"
+   }, {
+   "answers_en" : {
+   "a" : "21",
+   "b" : "127 Hours",
+   "c" : "28 Days Later",
+   "d" : "Groundhog Day"
+   },
+   "answers_tr" : {
+   "a" : "Dün Aslında",
+   "b" : "127 Saat",
+   "c" : "28 Gün Sonra",
+   "d" : "Bugün Aslında Dündü"
+   },
+   "correct_answer" : "c",
+   "question" : "2️⃣ 8️⃣ 📆 ➡️"
+   }, {
+   "answers_en" : {
+   "a" : "Rat Race",
+   "b" : "Me, Myself and Irene",
+   "c" : "The Incredibles",
+   "d" : "Never Back Down"
+   },
+   "answers_tr" : {
+   "a" : "Tabana Kuvvet",
+   "b" : "Ben, Kendim ve Sevgilim",
+   "c" : "Inanılmaz Aile",
+   "d" : "Asla Pes Etme"
+   },
+   "correct_answer" : "a",
+   "question" : "🐭 🏃🏻 🏃🏻 🏃🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Zookeeper",
+   "b" : "Mr. Popper's pebnguins",
+   "c" : "Twitter",
+   "d" : "The Birds"
+   },
+   "answers_tr" : {
+   "a" : "Hayvan Bakıcısı",
+   "b" : "Babamın Penguenleri",
+   "c" : "Twitter",
+   "d" : "Kuşlar"
+   },
+   "correct_answer" : "d",
+   "question" : "🐦 🐦 🐦"
+   }, {
+   "answers_en" : {
+   "a" : "Cold Mountain",
+   "b" : "Everest",
+   "c" : "The Bucket List",
+   "d" : "American Pie"
+   },
+   "answers_tr" : {
+   "a" : "Soğuk Dağ",
+   "b" : "Hababam Sınıfı",
+   "c" : "Şimdi ya da Asla",
+   "d" : "Amerikan Pastası"
+   },
+   "correct_answer" : "a",
+   "question" : "❄️ 🏔 🇺🇸"
+   }, {
+   "answers_en" : {
+   "a" : "The Devil Wears Prada",
+   "b" : "Working Girl",
+   "c" : "Legally Blonde",
+   "d" : "The Intern"
+   },
+   "answers_tr" : {
+   "a" : "Şeytan Marka Giyer",
+   "b" : "Çalışan Kız",
+   "c" : "Bu Nasıl Sarışın",
+   "d" : "Stajyer"
+   },
+   "correct_answer" : "b",
+   "question" : "💼 📈 👩🏻‍⚖️"
+   }, {
+   "answers_en" : {
+   "a" : "The Truman Show",
+   "b" : "The Ring",
+   "c" : "Anchorman",
+   "d" : "The Martian"
+   },
+   "answers_tr" : {
+   "a" : "Truman Show",
+   "b" : "Halka",
+   "c" : "Spiker",
+   "d" : "Marslı"
+   },
+   "correct_answer" : "c",
+   "question" : "🎙 📺 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Groundhog Day",
+   "b" : "28 Days Later",
+   "c" : "Independence Day",
+   "d" : "The Day After Tomorrow"
+   },
+   "answers_tr" : {
+   "a" : "Bugün Aslında Dündü",
+   "b" : "28 Gün Sonra",
+   "c" : "Kurtuluş Günü",
+   "d" : "Yarından Sonra"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏻 🎥 📆 🔄"
+   }, {
+   "answers_en" : {
+   "a" : "American History X",
+   "b" : "Independence Day",
+   "c" : "Fight Club",
+   "d" : "Saving Private Ryan"
+   },
+   "answers_tr" : {
+   "a" : "American History X",
+   "b" : "Kurtuluş Günü",
+   "c" : "Dövüş Kulübü",
+   "d" : "Kaybedenler Kulübü"
+   },
+   "correct_answer" : "a",
+   "question" : "🇺🇸 📜 ❌"
+   }, {
+   "answers_en" : {
+   "a" : "Tomb Raider",
+   "b" : "The Tourist",
+   "c" : "Children of Men",
+   "d" : "The Wolf of Wall Street"
+   },
+   "answers_tr" : {
+   "a" : "Tomb Raider",
+   "b" : "Turist",
+   "c" : "ArifV216",
+   "d" : "Para Avcısı"
+   },
+   "correct_answer" : "b",
+   "question" : "👨🏻 📷 🚆 🚤"
+   }, {
+   "answers_en" : {
+   "a" : "Pulp Fiction",
+   "b" : "Bruce Almighty",
+   "c" : "The Revenant",
+   "d" : "The Book of Eli"
+   },
+   "answers_tr" : {
+   "a" : "Ucuz Roman",
+   "b" : "Aman Tanrım",
+   "c" : "Diriliş",
+   "d" : "Tanrının Kitabı"
+   },
+   "correct_answer" : "d",
+   "question" : "😎 😇 📖 🔫"
+   }, {
+   "answers_en" : {
+   "a" : "Forrest Gump",
+   "b" : "Oldboy",
+   "c" : "Green Mile",
+   "d" : "No Country for Old Men"
+   },
+   "answers_tr" : {
+   "a" : "Forrest Gump",
+   "b" : "Ihtiyar Delikanlı",
+   "c" : "Yeşil Yol",
+   "d" : "Ihtiyarlara Yer Yok"
+   },
+   "correct_answer" : "b",
+   "question" : "👴🏻 🙎🏻‍♂️"
+   }, {
+   "answers_en" : {
+   "a" : "Snow Dogs",
+   "b" : "Marley and Me",
+   "c" : "Frozen",
+   "d" : "John Wick"
+   },
+   "answers_tr" : {
+   "a" : "Kar Köpekleri",
+   "b" : "Marley ve Ben",
+   "c" : "Karlar Ülkesi",
+   "d" : "John Wick"
+   },
+   "correct_answer" : "a",
+   "question" : "❄️ 🐶 🐶"
+   }, {
+   "answers_en" : {
+   "a" : "Mad Max",
+   "b" : "Spiderman",
+   "c" : "Step Up",
+   "d" : "Never Back Down"
+   },
+   "answers_tr" : {
+   "a" : "Mad Max",
+   "b" : "Spiderman",
+   "c" : "Benimle Dans Et",
+   "d" : "Asla Pes Etme"
+   },
+   "correct_answer" : "c",
+   "question" : "👣 ⬆️"
+   }, {
+   "answers_en" : {
+   "a" : "Dead Man",
+   "b" : "Night on Earth",
+   "c" : "Dumb and Dumber",
+   "d" : "40 Year Old Virgin"
+   },
+   "answers_tr" : {
+   "a" : "Ölü Adam",
+   "b" : "Dünyada Bir Gece",
+   "c" : "Arka Sokaklar",
+   "d" : "40 Yıllık Bekar"
+   },
+   "correct_answer" : "a",
+   "question" : "💀 👨🏽"
+   }, {
+   "answers_en" : {
+   "a" : "The Godfather",
+   "b" : "Trainspotting",
+   "c" : "Shooter",
+   "d" : "Goodfellas"
+   },
+   "answers_tr" : {
+   "a" : "Baba",
+   "b" : "Trainspotting",
+   "c" : "Tetikçi",
+   "d" : "Sıkı Dostlar"
+   },
+   "correct_answer" : "d",
+   "question" : "👬 👍🏼 🔫 💊"
+   }, {
+   "answers_en" : {
+   "a" : "American Beauty",
+   "b" : "Blade Runner",
+   "c" : "Scream",
+   "d" : "Catch Me If You Can"
+   },
+   "answers_tr" : {
+   "a" : "Amerikan Güzeli",
+   "b" : "Bıçak Sırtı",
+   "c" : "Çığlık",
+   "d" : "Sıkıysa Yakala"
+   },
+   "correct_answer" : "b",
+   "question" : "🔪 🏃🏻"
+   }, {
+   "answers_en" : {
+   "a" : "The Watch",
+   "b" : "Old School",
+   "c" : "Watchmen",
+   "d" : "Due Date"
+   },
+   "answers_tr" : {
+   "a" : "Gözüm Üzerinizde",
+   "b" : "Eski Dostlar",
+   "c" : "Watchmen",
+   "d" : "Git Başımdan"
+   },
+   "correct_answer" : "a",
+   "question" : "👀 👉🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Black Panther",
+   "b" : "IT",
+   "c" : "Alien vs Predator",
+   "d" : "Zootopia"
+   },
+   "answers_tr" : {
+   "a" : "Black Panther",
+   "b" : "IT",
+   "c" : "Alien vs Predator",
+   "d" : "Hayvanlar Şehri"
+   },
+   "correct_answer" : "c",
+   "question" : "👽 🆚 🐆"
+   }, {
+   "answers_en" : {
+   "a" : "Contact",
+   "b" : "A.i.",
+   "c" : "My Father and My Son",
+   "d" : "Anchorman"
+   },
+   "answers_tr" : {
+   "a" : "Mesaj",
+   "b" : "Yapay Zeka",
+   "c" : "Babam ve Oğlum",
+   "d" : "Spiker"
+   },
+   "correct_answer" : "a",
+   "question" : "📡 👽 📠 👩🏼"
+   }, {
+   "answers_en" : {
+   "a" : "Brave",
+   "b" : "Bride Wars",
+   "c" : "Cesur Yürek",
+   "d" : "Anger Management"
+   },
+   "answers_tr" : {
+   "a" : "Cesur",
+   "b" : "Gelinlerin Savaşı",
+   "c" : "Braveheart",
+   "d" : "Asabiyim"
+   },
+   "correct_answer" : "a",
+   "question" : "👰🏼 👩🏼 ➡️ 🐻"
+   }, {
+   "answers_en" : {
+   "a" : "Romeo and Juliet",
+   "b" : "The Great Gatsby",
+   "c" : "La La Land",
+   "d" : "Some Like It Hot"
+   },
+   "answers_tr" : {
+   "a" : "Dondurmam Gaymak",
+   "b" : "Muhteşem Gatsby",
+   "c" : "Aşıklar Şehri",
+   "d" : "Bazıları Sıcak Sever"
+   },
+   "correct_answer" : "d",
+   "question" : "🎷 👯"
+   }, {
+   "answers_en" : {
+   "a" : "60 Seconds",
+   "b" : "Bad Boys",
+   "c" : "The Good, the Bad and the Ugly",
+   "d" : "12 Angry Men"
+   },
+   "answers_tr" : {
+   "a" : "60 Saniye",
+   "b" : "Çılgın İkili",
+   "c" : "İyi, Kötü ve Çirkin",
+   "d" : "Hababam Sınıfı"
+   },
+   "correct_answer" : "b",
+   "question" : "😈 👨🏾 👨🏾 🔫"
+   }, {
+   "answers_en" : {
+   "a" : "21",
+   "b" : "Superman",
+   "c" : "Mission Impossible",
+   "d" : "New Year's Eve"
+   },
+   "answers_tr" : {
+   "a" : "21",
+   "b" : "Superman",
+   "c" : "Görevimiz Tehlike",
+   "d" : "A.R.O.G"
+   },
+   "correct_answer" : "c",
+   "question" : "🏃🏻 💥 ⬅️ 🚂"
+   }, {
+   "answers_en" : {
+   "a" : "The Ghost Writer",
+   "b" : "Arrival",
+   "c" : "Ghostbusters",
+   "d" : "Batman"
+   },
+   "answers_tr" : {
+   "a" : "Hayalet Yazar",
+   "b" : "Gülyabani",
+   "c" : "Hayalet Avcıları",
+   "d" : "Batman"
+   },
+   "correct_answer" : "a",
+   "question" : "👻 📝"
+   }, {
+   "answers_en" : {
+   "a" : "Just Go With It",
+   "b" : "500 Days of Summer",
+   "c" : "50 First Dates",
+   "d" : "The Fault in Our Stars"
+   },
+   "answers_tr" : {
+   "a" : "Hayatım Yalan",
+   "b" : "Aşkın 500 Günü",
+   "c" : "50 İlk Öpücük",
+   "d" : "Aynı Yıldızın Altında"
+   },
+   "correct_answer" : "c",
+   "question" : "1️⃣ 👫 5️⃣ 0️⃣"
+   }, {
+   "answers_en" : {
+   "a" : "Interstate 60",
+   "b" : "Interstellar",
+   "c" : "Matrix",
+   "d" : "The Proposal"
+   },
+   "answers_tr" : {
+   "a" : "Bilinmeyen Yol",
+   "b" : "Yıldızlararası",
+   "c" : "Eyvah Eyvah",
+   "d" : "Teklif"
+   },
+   "correct_answer" : "d",
+   "question" : "👨🏻 💍 👩🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Face Off",
+   "b" : "Catch Me If You Can",
+   "c" : "Memento",
+   "d" : "Police Academy"
+   },
+   "answers_tr" : {
+   "a" : "Yüzyüze",
+   "b" : "Sıkıysa Yakala",
+   "c" : "Akıl Defteri",
+   "d" : "Polis Okulu"
+   },
+   "correct_answer" : "a",
+   "question" : "👮🏻 🔄 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Garfield",
+   "b" : "Cinderella",
+   "c" : "The Smurfs",
+   "d" : "Maleficent"
+   },
+   "answers_tr" : {
+   "a" : "Garfield",
+   "b" : "Sindirella",
+   "c" : "Şirinler",
+   "d" : "Malefiz"
+   },
+   "correct_answer" : "c",
+   "question" : "🔵 👴🏻 👦🏻 👧🏻"
+   }, {
+   "answers_en" : {
+   "a" : "She's Out of My League",
+   "b" : "The Girl Next Door",
+   "c" : "Legally Blonde",
+   "d" : "Call Me by Your Name"
+   },
+   "answers_tr" : {
+   "a" : "Bu Kız Beni Aşar",
+   "b" : "Komşu Kızı",
+   "c" : "Bu Nasıl Sarışın",
+   "d" : "Beni Adınla Çağır"
+   },
+   "correct_answer" : "b",
+   "question" : "👱🏻‍♀️ ➡️ 🚪"
+   }, {
+   "answers_en" : {
+   "a" : "The Flash",
+   "b" : "This Is the End",
+   "c" : "The Day After Tomorrow",
+   "d" : "War of the Worlds"
+   },
+   "answers_tr" : {
+   "a" : "Kabadayı",
+   "b" : "Aşk-ı Memnu",
+   "c" : "Yarından Sonra",
+   "d" : "Dünyalar Savaşı"
+   },
+   "correct_answer" : "d",
+   "question" : "🔫 💣 🌎 🌏"
+   }, {
+   "answers_en" : {
+   "a" : "The Mask",
+   "b" : "Pretty Woman",
+   "c" : "Hulk",
+   "d" : "Gone Girl"
+   },
+   "answers_tr" : {
+   "a" : "Maske",
+   "b" : "Özel Bir Kadın",
+   "c" : "Hulk",
+   "d" : "Kayıp Kız"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏻 ❇️ 🎭"
+   }, {
+   "answers_en" : {
+   "a" : "The Boss Baby",
+   "b" : "Scream",
+   "c" : "Child's Play",
+   "d" : "The Greatest Showman"
+   },
+   "answers_tr" : {
+   "a" : "Patron Bebek",
+   "b" : "Çığlık",
+   "c" : "Çocuk Oyunu",
+   "d" : "Muhteşem Showman"
+   },
+   "correct_answer" : "c",
+   "question" : "👦🏻 😈 🔪"
+   }, {
+   "answers_en" : {
+   "a" : "American Pie",
+   "b" : "The Danish Girl",
+   "c" : "The Imitation Game",
+   "d" : "American Gangster"
+   },
+   "answers_tr" : {
+   "a" : "Amerikan Pastası",
+   "b" : "Danimarkalı Kız",
+   "c" : "Enigma",
+   "d" : "Amerikan Gangsteri"
+   },
+   "correct_answer" : "d",
+   "question" : "🇺🇸 👨🏻 🔫 🔪"
+   }, {
+   "answers_en" : {
+   "a" : "Yes Man",
+   "b" : "Zookeeper",
+   "c" : "Gladiator",
+   "d" : "Child's Play"
+   },
+   "answers_tr" : {
+   "a" : "Bay Evet",
+   "b" : "Hayvan Bakıcısı",
+   "c" : "Gladyatör",
+   "d" : "Çocuk Oyunu"
+   },
+   "correct_answer" : "c",
+   "question" : "👨🏻 🔪 🐅 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Thor",
+   "b" : "Demolition",
+   "c" : "Split",
+   "d" : "Mother!"
+   },
+   "answers_tr" : {
+   "a" : "Thor",
+   "b" : "Yeniden Başla",
+   "c" : "Parçalanmış",
+   "d" : "Anne!"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏻 🔨 ⚡️"
+   }, {
+   "answers_en" : {
+   "a" : "American Made",
+   "b" : "Kingsman",
+   "c" : "Atomic Blonde",
+   "d" : "The Aviator"
+   },
+   "answers_tr" : {
+   "a" : "Kaçakçı",
+   "b" : "Kingsman",
+   "c" : "Sarışın Bomba",
+   "d" : "Göklerin Hakimi"
+   },
+   "correct_answer" : "d",
+   "question" : "✈️ 🚁 👱🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Easy A",
+   "b" : "The Adjustment Bureau",
+   "c" : "The Da Vinci Code",
+   "d" : "Hobbit"
+   },
+   "answers_tr" : {
+   "a" : "Adı Çıkmış",
+   "b" : "Kader Ajanları",
+   "c" : "Da Vinci Şifresi",
+   "d" : "Hobbit"
+   },
+   "correct_answer" : "c",
+   "question" : "🔎 ♒️ 📝"
+   }, {
+   "answers_en" : {
+   "a" : "World War Z",
+   "b" : "This Is the End",
+   "c" : "Hancock",
+   "d" : "Avatar"
+   },
+   "answers_tr" : {
+   "a" : "Dünya Savaşı Z",
+   "b" : "Buraya Kadar",
+   "c" : "Hancock",
+   "d" : "Avatar"
+   },
+   "correct_answer" : "b",
+   "question" : "👭 👬 🌎 🔚"
+   }, {
+   "answers_en" : {
+   "a" : "District 9",
+   "b" : "Arrival",
+   "c" : "Ant-Man",
+   "d" : "21 Jump Street"
+   },
+   "answers_tr" : {
+   "a" : "Yasak Bölge 9",
+   "b" : "Geliş",
+   "c" : "Ant-Man",
+   "d" : "Liseli Polisler"
+   },
+   "correct_answer" : "a",
+   "question" : "👽 🐜 9️⃣"
+   }, {
+   "answers_en" : {
+   "a" : "Now You See Me",
+   "b" : "Deadpool",
+   "c" : "Kingdom of Heaven",
+   "d" : "Troy"
+   },
+   "answers_tr" : {
+   "a" : "Sihirbazlar Çetesi",
+   "b" : "Kahpe Bizans",
+   "c" : "Cennetin Krallığı",
+   "d" : "Truva"
+   },
+   "correct_answer" : "d",
+   "question" : "🐴 🏰"
+   }, {
+   "answers_en" : {
+   "a" : "Hayvanlar Şehri",
+   "b" : "Avengers",
+   "c" : "Star Wars",
+   "d" : "Edward Scissorands"
+   },
+   "answers_tr" : {
+   "a" : "Zootopia",
+   "b" : "Yenilmezler",
+   "c" : "Star Wars",
+   "d" : "Makas Eller"
+   },
+   "correct_answer" : "b",
+   "question" : "🐜 🕸 🔨 🇺🇸 😡"
+   }, {
+   "answers_en" : {
+   "a" : "Lucky Number Slevin",
+   "b" : "Fantastic Four",
+   "c" : "Inception",
+   "d" : "Wall-e"
+   },
+   "answers_tr" : {
+   "a" : "Şanslı Slevin",
+   "b" : "Fantastik Dörtlü",
+   "c" : "Başlangıç",
+   "d" : "Vol-i"
+   },
+   "correct_answer" : "b",
+   "question" : "👌🏻 4️⃣"
+   }, {
+   "answers_en" : {
+   "a" : "Three Billboards Outside Ebbing, Missouri",
+   "b" : "Good Will Hunting",
+   "c" : "3 Idiots",
+   "d" : "Shutter Island"
+   },
+   "answers_tr" : {
+   "a" : "3 Billboard Ebbing Çıkışı, Missouri ",
+   "b" : "Can Dostum",
+   "c" : "3 Aptal",
+   "d" : "Zindan Adası"
+   },
+   "correct_answer" : "c",
+   "question" : "3️⃣ 😯"
+   }, {
+   "answers_en" : {
+   "a" : "Shutter Island",
+   "b" : "Her",
+   "c" : "Social Network",
+   "d" : "Silver Linings Playbook"
+   },
+   "answers_tr" : {
+   "a" : "Zindan Adası",
+   "b" : "Aşk",
+   "c" : "Recep Ivedik",
+   "d" : "Umut Işığım"
+   },
+   "correct_answer" : "a",
+   "question" : "❗️ 🏝"
+   }, {
+   "answers_en" : {
+   "a" : "La La Land",
+   "b" : "Wonder Woman",
+   "c" : "Gone Girl",
+   "d" : "Mean Girls"
+   },
+   "answers_tr" : {
+   "a" : "Aşıklar Şehri",
+   "b" : "Wonder Woman",
+   "c" : "Kayıp Kız",
+   "d" : "Kötü Kızlar"
+   },
+   "correct_answer" : "c",
+   "question" : "❌ 👱🏻‍♀️"
+   }, {
+   "answers_en" : {
+   "a" : "The Proposal",
+   "b" : "10 Things I Hate About You",
+   "c" : "What Women Want",
+   "d" : "As Good as It Gets"
+   },
+   "answers_tr" : {
+   "a" : "Teklif",
+   "b" : "Senden Nefret Etmemin 10 Sebebi",
+   "c" : "Kadınlar Ne İster?",
+   "d" : "Benden Bu Kadar"
+   },
+   "correct_answer" : "b",
+   "question" : "1️⃣ 0️⃣ 😡 👉🏻"
+   }, {
+   "answers_en" : {
+   "a" : "You Don't Mess with the Zohan",
+   "b" : "Mad Max",
+   "c" : "Warrior",
+   "d" : "Rush"
+   },
+   "answers_tr" : {
+   "a" : "Zohan'a Bulaşma",
+   "b" : "Mad Max",
+   "c" : "Büyük Dövüş",
+   "d" : "Zafere Hücum"
+   },
+   "correct_answer" : "d",
+   "question" : "🔚 🏎 🏎 💨"
+   }, {
+   "answers_en" : {
+   "a" : "Click",
+   "b" : "Superman",
+   "c" : "Interstellar",
+   "d" : "Dallas Buyers Club"
+   },
+   "answers_tr" : {
+   "a" : "Click",
+   "b" : "Dabbe",
+   "c" : "Yıldızlarası",
+   "d" : "Sınırsızlar Kulübü"
+   },
+   "correct_answer" : "c",
+   "question" : "🚀 ⌚️ 🌌 👨🏻‍🚀"
+   }, {
+   "answers_en" : {
+   "a" : "Gravity",
+   "b" : "Avatar",
+   "c" : "I Am Legend",
+   "d" : "Scary Movie"
+   },
+   "answers_tr" : {
+   "a" : "Yerçekimi",
+   "b" : "Avatar",
+   "c" : "Ben Efsaneyim",
+   "d" : "Korkunç Bir Film"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏻‍🚀 👩🏻‍🚀 🛰"
+   }, {
+   "answers_en" : {
+   "a" : "Forrest Gump",
+   "b" : "Catch Me If You Can",
+   "c" : "Allied",
+   "d" : "American Sniper"
+   },
+   "answers_tr" : {
+   "a" : "Forrest Gump",
+   "b" : "Sıkıysa Yakala",
+   "c" : "Müttefik",
+   "d" : "Keskin Nişancı"
+   },
+   "correct_answer" : "b",
+   "question" : "⬅️ 🏃🏻 ⬅️ 🏃🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Titanic",
+   "b" : "Jaws",
+   "c" : "The Terminal",
+   "d" : "The Founder"
+   },
+   "answers_tr" : {
+   "a" : "Titanik",
+   "b" : "Jaws",
+   "c" : "Terminal",
+   "d" : "The Founder"
+   },
+   "correct_answer" : "d",
+   "question" : "🍔 🍟"
+   }, {
+   "answers_en" : {
+   "a" : "The Social Network",
+   "b" : "Lady Bird",
+   "c" : "Crazy, Stupid, Love",
+   "d" : "The Great Wall"
+   },
+   "answers_tr" : {
+   "a" : "Sosyal Ağ",
+   "b" : "Uğur Böceği",
+   "c" : "Çılgın Aptal Aşk",
+   "d" : "Çin Seddi"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏼‍💻 👤"
+   }, {
+   "answers_en" : {
+   "a" : "Source Code",
+   "b" : "Lord of War",
+   "c" : "Crash",
+   "d" : "Howl's Moving Castle"
+   },
+   "answers_tr" : {
+   "a" : "Yaşam Şifresi",
+   "b" : "Savaş Tanrısı",
+   "c" : "Çarpışma",
+   "d" : "Yürüyen Şato"
+   },
+   "correct_answer" : "b",
+   "question" : "👑 🔫"
+   }, {
+   "answers_en" : {
+   "a" : "Howl's Moving Castle",
+   "b" : "Inside Man",
+   "c" : "The Fountain",
+   "d" : "Seven Pounds"
+   },
+   "answers_tr" : {
+   "a" : "Yürüyen Şato",
+   "b" : "İçerideki Adam",
+   "c" : "Bu Nasıl Sarışın",
+   "d" : "Yedi Yaşam"
+   },
+   "correct_answer" : "a",
+   "question" : "👣 🏰"
+   }, {
+   "answers_en" : {
+   "a" : "Aliens",
+   "b" : "Superman",
+   "c" : "Spiderman",
+   "d" : "Beetle Juice"
+   },
+   "answers_tr" : {
+   "a" : "Yaratık",
+   "b" : "Karaoğlan",
+   "c" : "Spiderman",
+   "d" : "Beter Böcek"
+   },
+   "correct_answer" : "c",
+   "question" : "🕷 🕸 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "The Dreamers",
+   "b" : "The Girl in Train",
+   "c" : "Nocturnal Animals",
+   "d" : "Scent of a Woman"
+   },
+   "answers_tr" : {
+   "a" : "Düşler, Tutkular ve Suçlar",
+   "b" : "Trendeki Kız",
+   "c" : "Gece Hayvanları",
+   "d" : "Kadın Kokusu"
+   },
+   "correct_answer" : "b",
+   "question" : "🚂 ⬇️ 👩🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Nocturnal Animals",
+   "b" : "Blue Valentine",
+   "c" : "Get Out",
+   "d" : "Big Fish"
+   },
+   "answers_tr" : {
+   "a" : "Gece Hayvanları",
+   "b" : "Dabbe",
+   "c" : "Kapan",
+   "d" : "Büyük Balık"
+   },
+   "correct_answer" : "a",
+   "question" : "🌃 🌚 🐺 🦉"
+   }, {
+   "answers_en" : {
+   "a" : "Goal!",
+   "b" : "King Arthur",
+   "c" : "The Game",
+   "d" : "Moneyball"
+   },
+   "answers_tr" : {
+   "a" : "Gol!",
+   "b" : "King Arthur",
+   "c" : "Oyun",
+   "d" : "Kazanma Sanatı"
+   },
+   "correct_answer" : "c",
+   "question" : "🎮 🎲"
+   }, {
+   "answers_en" : {
+   "a" : "King Arthur",
+   "b" : "Pirates of the Caribbean",
+   "c" : "21 Jump Street",
+   "d" : "Seven Samurai"
+   },
+   "answers_tr" : {
+   "a" : "King Arthur",
+   "b" : "Karayip Korsanları",
+   "c" : "Liseli Polisler",
+   "d" : "Yedi Samurai"
+   },
+   "correct_answer" : "d",
+   "question" : "7️⃣ 🥋"
+   }, {
+   "answers_en" : {
+   "a" : "Basketball Diaries",
+   "b" : "Goal!",
+   "c" : "Silence",
+   "d" : "High School Musical"
+   },
+   "answers_tr" : {
+   "a" : "Basketbol Günlükleri",
+   "b" : "Gol!",
+   "c" : "Silence",
+   "d" : "High School Musical"
+   },
+   "correct_answer" : "b",
+   "question" : "⚽️ 🥅"
+   }, {
+   "answers_en" : {
+   "a" : "Rise of the Planet of the Apes",
+   "b" : "The Mask",
+   "c" : "Madagascar",
+   "d" : "Twelve Monkeys"
+   },
+   "answers_tr" : {
+   "a" : "Maymunlar Cehennemi",
+   "b" : "Maske",
+   "c" : "Madagaskar",
+   "d" : "12 Maymun"
+   },
+   "correct_answer" : "d",
+   "question" : "1️⃣ 2️⃣ 🐒"
+   }, {
+   "answers_en" : {
+   "a" : "The Lord oF the Rings",
+   "b" : "The Neverending Story",
+   "c" : "Dragon Slayer",
+   "d" : "The Hobbit"
+   },
+   "answers_tr" : {
+   "a" : "Ejderha Dövmeli Kız",
+   "b" : "Yüzüklerin Efendisi",
+   "c" : "Ejderhanı Nasıl Eğitirsin",
+   "d" : "Hobit"
+   },
+   "correct_answer" : "d",
+   "question" : "🙍‍♂️ 💍 🐉 🌋 "
+   }, {
+   "answers_en" : {
+   "a" : "Cars",
+   "b" : "Fast and Furious",
+   "c" : "Dragon Slayer",
+   "d" : "The Hobbit"
+   },
+   "answers_tr" : {
+   "a" : "Arabalar",
+   "b" : "Yüzüklerin Efendisi",
+   "c" : "Ejderhanı Nasıl Eğitirsin",
+   "d" : "Hobit"
+   },
+   "correct_answer" : "a",
+   "question" : "🚗 🚙💨 🏁 "
+   }, {
+   "answers_en" : {
+   "a" : "Jurassic Park",
+   "b" : "Pet Semetary",
+   "c" : "The Ring",
+   "d" : "Silence Of The Lambs"
+   },
+   "answers_tr" : {
+   "a" : "Jurassic Park",
+   "b" : "Hayvan Mezarlığı",
+   "c" : "Halka",
+   "d" : "Kuzuların Sessizliği"
+   },
+   "correct_answer" : "d",
+   "question" : "🔇 🐑 🐑 "
+   }, {
+   "answers_en" : {
+   "a" : "Memories of Murder",
+   "b" : "Marathon",
+   "c" : "Memoirs Of A Geisha",
+   "d" : "Sad Movie"
+   },
+   "answers_tr" : {
+   "a" : "Bir Katilin Anıları",
+   "b" : "Maraton",
+   "c" : "Bir Geyşanın Anıları",
+   "d" : "Çin Seddi"
+   },
+   "correct_answer" : "c",
+   "question" : "🗯 📝 👘 "
+   }, {
+   "answers_en" : {
+   "a" : "Lost Princess",
+   "b" : "Sleeping Beauty",
+   "c" : "Cindirella",
+   "d" : "Sad Movie"
+   },
+   "answers_tr" : {
+   "a" : "Pamuk Prenses",
+   "b" : "Uyuyan Güzel",
+   "c" : "Sindirella",
+   "d" : "Kayıp Prenses"
+   },
+   "correct_answer" : "b",
+   "question" : "💤 👸 "
+   }, {
+   "answers_en" : {
+   "a" : "Grizzly Falls",
+   "b" : "Zootopia",
+   "c" : "Kung Fu Panda",
+   "d" : "Madagascar"
+   },
+   "answers_tr" : {
+   "a" : "Boz Ayı",
+   "b" : "Zootropolis Hayvanlar Şehri",
+   "c" : "Kung Fu Panda",
+   "d" : "Madagaskar"
+   },
+   "correct_answer" : "c",
+   "question" : "👊 💥 🐼 "
+   }, {
+   "answers_en" : {
+   "a" : "White House Down",
+   "b" : "Up",
+   "c" : "Black Hawk Down",
+   "d" : "Upside Down"
+   },
+   "answers_tr" : {
+   "a" : "Beyaz Saray Düştü",
+   "b" : "Şimdi Ya da Asla",
+   "c" : "Yukarı Bak",
+   "d" : "Kara Şahin Düştü"
+   },
+   "correct_answer" : "a",
+   "question" : "⬜️ 🏡 ⬇️"
+   }, {
+   "answers_en" : {
+   "a" : "King Arthur",
+   "b" : "The King's Speech",
+   "c" : "The Shining",
+   "d" : "The Green Mile"
+   },
+   "answers_tr" : {
+   "a" : "Krallar Kralı",
+   "b" : "Zoraki Kral",
+   "c" : "Kral Arthur",
+   "d" : "Çirkin Kral"
+   },
+   "correct_answer" : "b",
+   "question" : "👑 👨🏻 📣"
+   }, {
+   "answers_en" : {
+   "a" : "Bad Boys 2",
+   "b" : "Man in Black",
+   "c" : "Xtro",
+   "d" : "Alien"
+   },
+   "answers_tr" : {
+   "a" : "Dünyayı Kurtaran Adam",
+   "b" : "Siyah Giyen Adamlar",
+   "c" : "Dünyayı Kurtaran Adam'ın Oğlu",
+   "d" : "Babam ve Oğlum"
+   },
+   "correct_answer" : "b",
+   "question" : "👨🏻 ⤵️ ⬛️ 👽"
+   }, {
+   "answers_en" : {
+   "a" : "Track of The Cat",
+   "b" : "Snow",
+   "c" : "Eight Below",
+   "d" : "Ice Age"
+   },
+   "answers_tr" : {
+   "a" : "Karlar Ülkesi",
+   "b" : "Ölü Kar",
+   "c" : "Kar Tatili",
+   "d" : "Buz Devri"
+   },
+   "correct_answer" : "d",
+   "question" : "❄️ 🌰 🐺 🐯"
+   }, {
+   "answers_en" : {
+   "a" : "Track of The Cat",
+   "b" : "Snow",
+   "c" : "James Bond",
+   "d" : "Sherlock Holmes"
+   },
+   "answers_tr" : {
+   "a" : "İtirazım Var",
+   "b" : "Av Mevsimi",
+   "c" : "Pars : Kiraz Operasyonu",
+   "d" : "Sherlock Holmes"
+   },
+   "correct_answer" : "d",
+   "question" : "🎩 🔍 🔫 👨‍🏭 "
+   }, {
+   "answers_en" : {
+   "a" : "Brokeback Mountain",
+   "b" : "The Blair Witch Project",
+   "c" : "Heavy Weights",
+   "d" : "Into the Wild"
+   },
+   "answers_tr" : {
+   "a" : "Brokeback Dağı",
+   "b" : "Kamp",
+   "c" : "Çılgın Dershane",
+   "d" : "Özgürlük Yolu"
+   },
+   "correct_answer" : "d",
+   "question" : "👨🏻 👨🏻 🏕 ⛰ "
+   }, {
+   "answers_en" : {
+   "a" : "Titanic",
+   "b" : "Ghost Ship",
+   "c" : "Below",
+   "d" : "Deep Blue Sea"
+   },
+   "answers_tr" : {
+   "a" : "Titanik",
+   "b" : "Hayalet Gemi",
+   "c" : "Karayip Korsanları",
+   "d" : "Sahil Güvenlik"
+   },
+   "correct_answer" : "a",
+   "question" : "🚢 🌊 💥 "
+   }, {
+   "answers_en" : {
+   "a" : "Titanic",
+   "b" : "Ghost Ship",
+   "c" : "World War Z",
+   "d" : "Pearl Harbor"
+   },
+   "answers_tr" : {
+   "a" : "Gemide",
+   "b" : "Hayalet Gemi",
+   "c" : "Laleli'de Bir Azize",
+   "d" : "Pearl Harbor"
+   },
+   "correct_answer" : "d",
+   "question" : "🇯🇵 💣 🇺🇸 🚢 "
+   }, {
+   "answers_en" : {
+   "a" : "Harry Potter",
+   "b" : "E.T.",
+   "c" : "Avatar",
+   "d" : "Man In Black"
+   },
+   "answers_tr" : {
+   "a" : "Predator",
+   "b" : "Superman",
+   "c" : "Avatar",
+   "d" : "Transformers"
+   },
+   "correct_answer" : "c",
+   "question" : "🔵 👽"
+   }, {
+   "answers_en" : {
+   "a" : "American Beauty",
+   "b" : "Wolf of Wall Street",
+   "c" : "Tomb Raider",
+   "d" : "Justice League"
+   },
+   "answers_tr" : {
+   "a" : "Amerikan Güzeli",
+   "b" : "Para Avcısı",
+   "c" : "Avatar",
+   "d" : "Adalet Birliği"
+   },
+   "correct_answer" : "a",
+   "question" : "🇺🇸 🌹 🙋🏼 🌹 "
+   }, {
+   "answers_en" : {
+   "a" : "Whiteout",
+   "b" : "Source Code",
+   "c" : "Train",
+   "d" : "Polar Express"
+   },
+   "answers_tr" : {
+   "a" : "Beyaz Ölüm",
+   "b" : "Yaşam Şifresi",
+   "c" : "Mesudiyeli Mesut",
+   "d" : "Kutup Ekspresi"
+   },
+   "correct_answer" : "d",
+   "question" : "❄️ ⛄️ 👮 🚂 "
+   }, {
+   "answers_en" : {
+   "a" : "Black Beauty",
+   "b" : "The Horse Whisperer",
+   "c" : "War Horse",
+   "d" : "The Black Stallion "
+   },
+   "answers_tr" : {
+   "a" : "Siyah İnci",
+   "b" : "Atlara Fısıldayan Adam",
+   "c" : "Savaş Atı",
+   "d" : "Hayalperest"
+   },
+   "correct_answer" : "b",
+   "question" : "👨🏻 🗯 🐴"
+   }, {
+   "answers_en" : {
+   "a" : "Congo",
+   "b" : "Monkey King",
+   "c" : "King Kong",
+   "d" : "Planet of the Apes "
+   },
+   "answers_tr" : {
+   "a" : "Maymunlar Cehennemi",
+   "b" : "King Kong",
+   "c" : "3 Maymun",
+   "d" : "Maymun Kral"
+   },
+   "correct_answer" : "c",
+   "question" : "👑 🦍 😡 🏢"
+   }, {
+   "answers_en" : {
+   "a" : "Rock And Rolla",
+   "b" : "Snatch",
+   "c" : "Lock, Stock and Two Smoking Barrels",
+   "d" : "This Is England "
+   },
+   "answers_tr" : {
+   "a" : "Kapışma",
+   "b" : "Yeşil Sokak Holiganları",
+   "c" : "Ateşten Kalbe, Akıldan Dumana",
+   "d" : "İşte İngiltere Bu"
+   },
+   "correct_answer" : "d",
+   "question" : "👉🏻 🇬🇧"
+   }, {
+   "answers_en" : {
+   "a" : "Amour",
+   "b" : "The Intouchables",
+   "c" : "Midnight In Paris",
+   "d" : "Amélie "
+   },
+   "answers_tr" : {
+   "a" : "Can Dostum",
+   "b" : "Aşk",
+   "c" : "Paris'te Gece Yarısı",
+   "d" : "Amélie"
+   },
+   "correct_answer" : "c",
+   "question" : "🌃 🕛 🇫🇷"
+   }, {
+   "answers_en" : {
+   "a" : "The Chaser",
+   "b" : "They Live",
+   "c" : "District 9",
+   "d" : "Scary Movie "
+   },
+   "answers_tr" : {
+   "a" : "Testere",
+   "b" : "Cinnet",
+   "c" : "Yasak Bölge 9",
+   "d" : "Korkunç Bir Film"
+   },
+   "correct_answer" : "d",
+   "question" : "😱 🎬 "
+   }, {
+   "answers_en" : {
+   "a" : "127 Hours",
+   "b" : "The Hours",
+   "c" : "The Last Descent",
+   "d" : "24 Hours to Live "
+   },
+   "answers_tr" : {
+   "a" : "127 Saat",
+   "b" : "Saatler",
+   "c" : "Yarını Yok",
+   "d" : "Everest"
+   },
+   "correct_answer" : "b",
+   "question" : "🕛 🕒 🕔 🕧"
+   }, {
+   "answers_en" : {
+   "a" : "Singin' in the Rain",
+   "b" : "The Hours",
+   "c" : "The Last Descent",
+   "d" : "24 Hours to Live "
+   },
+   "answers_tr" : {
+   "a" : "Yağmur Altında",
+   "b" : "Saatler",
+   "c" : "Yarını Yok",
+   "d" : "Everest"
+   },
+   "correct_answer" : "a",
+   "question" : "🎤 ☔️"
+   }, {
+   "answers_en" : {
+   "a" : "Cloverfield",
+   "b" : "Artificial Intelligence",
+   "c" : "Transformers",
+   "d" : "E.T "
+   },
+   "answers_tr" : {
+   "a" : "Yağmur Altında",
+   "b" : "Üçüncü Türden Yakınlaşmalar",
+   "c" : "Yapay Zeka",
+   "d" : "E.T"
+   },
+   "correct_answer" : "d",
+   "question" : "👽 🚲 🌛"
+   }, {
+   "answers_en" : {
+   "a" : "Cloverfield",
+   "b" : "Artificial Intelligence",
+   "c" : "Transformers",
+   "d" : "Apollo Thirteen "
+   },
+   "answers_tr" : {
+   "a" : "Yarının Sınırında",
+   "b" : "Transformers",
+   "c" : "Yapay Zeka",
+   "d" : "Apollo 13"
+   },
+   "correct_answer" : "d",
+   "question" : "🚀 🌙 ¹ ³"
+   }, {
+   "answers_en" : {
+   "a" : "Whisper",
+   "b" : "Super 8",
+   "c" : "Se7en",
+   "d" : "Six Sense "
+   },
+   "answers_tr" : {
+   "a" : "Yaşam Şifresi",
+   "b" : "Üçüncü Türden Yakınlaşmalar",
+   "c" : "Se7en",
+   "d" : "Altıncı His"
+   },
+   "correct_answer" : "d",
+   "question" : "𝟴 👀 👂🏻 👃🏻"
+   }, {
+   "answers_en" : {
+   "a" : "13 Hours",
+   "b" : " 12 Angry Man",
+   "c" : "12",
+   "d" : "12 Strong "
+   },
+   "answers_tr" : {
+   "a" : "12 Savaşçı",
+   "b" : "12 Kızgın Adam",
+   "c" : "12",
+   "d" : "Şahsiyet"
+   },
+   "correct_answer" : "b",
+   "question" : "１ ２ 😡 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Four Seasons",
+   "b" : "Sweet November",
+   "c" : "The Man from Snowy River",
+   "d" : "The Fifth Season"
+   },
+   "answers_tr" : {
+   "a" : "4 Mevsim",
+   "b" : "Av Mevsimi",
+   "c" : "Kasımda Aşk Başkadır",
+   "d" : "Beşinci Mevsim"
+   },
+   "correct_answer" : "a",
+   "question" : "❄️ ☀️ 🌿 🍂"
+   }, {
+   "answers_en" : {
+   "a" : "El Secreto De Sus Ojos",
+   "b" : "Sweet November",
+   "c" : "Casablanca",
+   "d" : "Abre Los Ojos"
+   },
+   "answers_tr" : {
+   "a" : "4 Mevsim",
+   "b" : "La Casa De Papel",
+   "c" : "Kazablanka",
+   "d" : "Julia'nın Gözleri"
+   },
+   "correct_answer" : "c",
+   "question" : "🏡 ⬜️ 🇪🇸"
+   }, {
+   "answers_en" : {
+   "a" : "Kiss Of The Dragon",
+   "b" : "Eragon",
+   "c" : "The Last Dragon",
+   "d" : "How to Train Your Dragon"
+   },
+   "answers_tr" : {
+   "a" : "Ejder Öpücüğü",
+   "b" : "Ejderhanı Nasıl Eğitirsin",
+   "c" : "Ejderlerin Dünyası",
+   "d" : "Mulan"
+   },
+   "correct_answer" : "a",
+   "question" : "👄 🐲"
+   }, {
+   "answers_en" : {
+   "a" : "Blue Is The Warmest Color",
+   "b" : "French Kiss",
+   "c" : "Leon",
+   "d" : "Rodin"
+   },
+   "answers_tr" : {
+   "a" : "Mavi En Sıcak Renktir",
+   "b" : "Fransız Öpücüğü",
+   "c" : "Leon",
+   "d" : "Rodin"
+   },
+   "correct_answer" : "b",
+   "question" : "🇫🇷 👄"
+   }, {
+   "answers_en" : {
+   "a" : "The Bride",
+   "b" : "The Princess Bride",
+   "c" : "Kill Bill",
+   "d" : "Corpse Bride"
+   },
+   "answers_tr" : {
+   "a" : "Gelin",
+   "b" : "Prenses Gelin",
+   "c" : "Kill Bill",
+   "d" : "Ölü Gelin"
+   },
+   "correct_answer" : "d",
+   "question" : "☠️ 👰🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Angels And Demons",
+   "b" : "City Of Angels",
+   "c" : "Devil's Advocate",
+   "d" : "Constantine"
+   },
+   "answers_tr" : {
+   "a" : "Melekler ve Şeytanlar",
+   "b" : "Beyaz Melek",
+   "c" : "Melekler Şehri",
+   "d" : "Konstantin"
+   },
+   "correct_answer" : "a",
+   "question" : "👼🏻 👼🏻 👹 👹"
+   }, {
+   "answers_en" : {
+   "a" : "Heavy",
+   "b" : "Minyeo-neun Goerowo",
+   "c" : "Super Size Me",
+   "d" : "Fast And Furious"
+   },
+   "answers_tr" : {
+   "a" : "Şişman ",
+   "b" : "Şişman Sevgilim",
+   "c" : "Şişir Beni",
+   "d" : "Hızlı ve Öfkeli"
+   },
+   "correct_answer" : "c",
+   "question" : "🍔 🍟 👨🏻 🚑"
+   }, {
+   "answers_en" : {
+   "a" : "Speed",
+   "b" : "Die Hard",
+   "c" : "Bus 174",
+   "d" : "Bus Stop"
+   },
+   "answers_tr" : {
+   "a" : "Hız Tuzağı ",
+   "b" : "Zor Ölüm",
+   "c" : "Otobüs Durağı",
+   "d" : "174 Numaralı Otobüs"
+   },
+   "correct_answer" : "a",
+   "question" : "💣 🚌 💨 💨"
+   }, {
+   "answers_en" : {
+   "a" : "The High And The Mighty 1954",
+   "b" : "Snatch",
+   "c" : "Rock and Rolla",
+   "d" : "Flight"
+   },
+   "answers_tr" : {
+   "a" : "Con Air",
+   "b" : "Gece Uçuşu",
+   "c" : "Boşluktaki Kahramanlar",
+   "d" : "Uçuş"
+   },
+   "correct_answer" : "d",
+   "question" : "👨🏻 🍺 ✈️ ↕️"
+   }, {
+   "answers_en" : {
+   "a" : "The High And The Mighty 1954",
+   "b" : "Top Gun",
+   "c" : "Con Air",
+   "d" : "Flight"
+   },
+   "answers_tr" : {
+   "a" : "Con Air",
+   "b" : "Top Gun",
+   "c" : "Boşluktaki Kahramanlar",
+   "d" : "Uçuş"
+   },
+   "correct_answer" : "b",
+   "question" : "🔝 🔫 ✈️"
+   }, {
+   "answers_en" : {
+   "a" : "Any Given Sunday",
+   "b" : "Friday Night Lights",
+   "c" : "Invictus",
+   "d" : "Invincible"
+   },
+   "answers_tr" : {
+   "a" : "Kazanma Hırsı",
+   "b" : "Zafer Gecesi",
+   "c" : "Boşluktaki Kahramanlar",
+   "d" : "Invincible"
+   },
+   "correct_answer" : "c",
+   "question" : "🙎‍♂️ 🏈 🏆"
+   }, {
+   "answers_en" : {
+   "a" : "Surfs Up",
+   "b" : "Blue Crash",
+   "c" : "Morning of the Earth",
+   "d" : "Chasing Mavericks"
+   },
+   "answers_tr" : {
+   "a" : "Neşeli Dalgalar",
+   "b" : "Büyük Dalga",
+   "c" : "Morning of the Earth",
+   "d" : "Dalgaların Peşinde"
+   },
+   "correct_answer" : "a",
+   "question" : "🏄🏻 🆙 🐧"
+   }, {
+   "answers_en" : {
+   "a" : "October Sky",
+   "b" : "Lake House",
+   "c" : "Autumn In New York",
+   "d" : "When Harry Met Sally"
+   },
+   "answers_tr" : {
+   "a" : "Ekim Düşü",
+   "b" : "Göl Evi",
+   "c" : "New York'ta Sonbahar",
+   "d" : "Harry Sally ile Tanışınca"
+   },
+   "correct_answer" : "c",
+   "question" : "🍁 🍂 🗽"
+   }, {
+   "answers_en" : {
+   "a" : "Dumbo",
+   "b" : "Mickey Mouse",
+   "c" : "The Great Mouse Detective",
+   "d" : "Stuart Little"
+   },
+   "answers_tr" : {
+   "a" : "Dumbo",
+   "b" : "Miki Fare",
+   "c" : "Muhteşem Fare Dedektif",
+   "d" : "Küçük Kardeşim"
+   },
+   "correct_answer" : "d",
+   "question" : "🙍‍♂️ 🐭 🚗"
+   }, {
+   "answers_en" : {
+   "a" : "The Paperboy",
+   "b" : "Zodiac",
+   "c" : "Sweet Smell of Success",
+   "d" : "Spotlight"
+   },
+   "answers_tr" : {
+   "a" : "Gazeteci Çocuk",
+   "b" : "Zodiac",
+   "c" : "Başarının Tatlı Kokusu",
+   "d" : "Spotlight"
+   },
+   "correct_answer" : "a",
+   "question" : "🙎🏻‍♂️ 📝"
+   }, {
+   "answers_en" : {
+   "a" : "Kisses for Breakfast",
+   "b" : "Breakfast Club",
+   "c" : "Café",
+   "d" : "Café Society"
+   },
+   "answers_tr" : {
+   "a" : "Kisses for Breakfast",
+   "b" : "The Breakfast Club",
+   "c" : "Café",
+   "d" : "Café Society"
+   },
+   "correct_answer" : "b",
+   "question" : "🍳 ☕️ 🥞 ♣️ "
+   }, {
+   "answers_en" : {
+   "a" : "The Green Hornet",
+   "b" : "Bee Movie",
+   "c" : "The Bees",
+   "d" : "More Than Honey"
+   },
+   "answers_tr" : {
+   "a" : "Yeşil Yaban Arısı",
+   "b" : "Arı Filmi",
+   "c" : "The Bees",
+   "d" : "Baldan Acı"
+   },
+   "correct_answer" : "a",
+   "question" : "✳️ 🐝 "
+   }, {
+   "answers_en" : {
+   "a" : "The Green Hornet",
+   "b" : "Rain of the Children",
+   "c" : "Tears in the Rain",
+   "d" : "Rain Man"
+   },
+   "answers_tr" : {
+   "a" : "Yeşil Yaban Arısı",
+   "b" : "Yağmur",
+   "c" : "Tears in the Rain",
+   "d" : "Yağmur Adam"
+   },
+   "correct_answer" : "d",
+   "question" : "☔️ 👨🏻"
+   }, {
+   "answers_en" : {
+   "a" : "The Green Hornet",
+   "b" : "Hancock",
+   "c" : "Chicken Run",
+   "d" : "Una"
+   },
+   "answers_tr" : {
+   "a" : "Yeşil Yaban Arısı",
+   "b" : "Hancock",
+   "c" : "Tavuklar Firarda",
+   "d" : "Karatavuk"
+   },
+   "correct_answer" : "b",
+   "question" : "✋🏼 🐓"
+   }, {
+   "answers_en" : {
+   "a" : "Open Water",
+   "b" : "Ocean's Twelve",
+   "c" : "Oceans Eleven",
+   "d" : "A Plastic Ocean"
+   },
+   "answers_tr" : {
+   "a" : "Açık Deniz",
+   "b" : "Ocean's Twelve",
+   "c" : "Oceans Eleven",
+   "d" : "Pasifik Okyanusu"
+   },
+   "correct_answer" : "c",
+   "question" : "🌊 𝟭 𝟭"
+   }, {
+   "answers_en" : {
+   "a" : "Free Willy",
+   "b" : "Big Miracle",
+   "c" : "Whale Rider",
+   "d" : "In the Heart of the Sea"
+   },
+   "answers_tr" : {
+   "a" : "Özgür Willy",
+   "b" : "Büyük Mucize",
+   "c" : "Balinanın Sırtında",
+   "d" : "Denizin Ortasında"
+   },
+   "correct_answer" : "a",
+   "question" : "🆓 🐳"
+   }, {
+   "answers_en" : {
+   "a" : "Eternal Sunshine of the Spotless Mind",
+   "b" : "The Notebook",
+   "c" : "Kiss Of Death",
+   "d" : "Gone with the Wind"
+   },
+   "answers_tr" : {
+   "a" : "Sil Baştan",
+   "b" : "Not Defteri",
+   "c" : "Ölüm Öpücüğü",
+   "d" : "Rüzgar Gibi Geçti"
+   },
+   "correct_answer" : "a",
+   "question" : "☠️ 💋"
+   }, {
+   "answers_en" : {
+   "a" : "Halloween",
+   "b" : "The Conjuring",
+   "c" : "Kiss Of Death",
+   "d" : "Scream"
+   },
+   "answers_tr" : {
+   "a" : "Yabancı",
+   "b" : "Korku Seansı",
+   "c" : "Ölüm Öpücüğü",
+   "d" : "Çığlık"
+   },
+   "correct_answer" : "d",
+   "question" : "😱 🔪"
+   }, {
+   "answers_en" : {
+   "a" : "The Archer",
+   "b" : "Robin Hood",
+   "c" : "Batman",
+   "d" : "This is England"
+   },
+   "answers_tr" : {
+   "a" : "The Archer",
+   "b" : "Robin Hood",
+   "c" : "Batman",
+   "d" : "Kobra Takibi"
+   },
+   "correct_answer" : "d",
+   "question" : "🇬🇧 👨🏻 🎯 💰"
+   }, {
+   "answers_en" : {
+   "a" : "The Kingdom",
+   "b" : "Moonrise Kingdom",
+   "c" : "Moonrise",
+   "d" : "Moonlight"
+   },
+   "answers_tr" : {
+   "a" : "Krallık",
+   "b" : "Yükselen Ay Krallığı",
+   "c" : "Ay'ın Doğuşu",
+   "d" : "Ay Işığı"
+   },
+   "correct_answer" : "b",
+   "question" : "🌙 ⬆️ 👑"
+   }, {
+   "answers_en" : {
+   "a" : "City Of God",
+   "b" : "Oh, God!",
+   "c" : "Moonrise",
+   "d" : "The Bible: In the Beginning..."
+   },
+   "answers_tr" : {
+   "a" : "Tanrı Kent",
+   "b" : "Aman Tanrım!",
+   "c" : "Ay'ın Doğuşu",
+   "d" : "Peygamberler Tarihi"
+   },
+   "correct_answer" : "a",
+   "question" : "🌇 ➡️ 😇 🙏🏻"
+   }, {
+   "answers_en" : {
+   "a" : "The Pursuit of Happyness",
+   "b" : "Forrest Gump",
+   "c" : "The Deer Hunter",
+   "d" : "Coming To America"
+   },
+   "answers_tr" : {
+   "a" : "Umudunu Kaybetme",
+   "b" : "Forrest Gump",
+   "c" : "Avcı",
+   "d" : "Amerika Rüyası"
+   },
+   "correct_answer" : "d",
+   "question" : "🇺🇸 👉🏻 🏃"
+   }, {
+   "answers_en" : {
+   "a" : "Jaws",
+   "b" : "Free Willy",
+   "c" : "Dolphin Tale",
+   "d" : "Madagascar"
+   },
+   "answers_tr" : {
+   "a" : "Jaws",
+   "b" : "Özgür Willy",
+   "c" : "Bir Yunusun Hikâyesi",
+   "d" : "Madagaskar"
+   },
+   "correct_answer" : "c",
+   "question" : "🐬 📖"
+   }, {
+   "answers_en" : {
+   "a" : "The Pursuit of Happyness",
+   "b" : "Coming To America",
+   "c" : "Catch Me If You Can",
+   "d" : "Forrest Gump"
+   },
+   "answers_tr" : {
+   "a" : "Umudunu Kaybetme",
+   "b" : "Amerika Rüyası",
+   "c" : "Sıkıysa Yakala",
+   "d" : "Forrest Gump"
+   },
+   "correct_answer" : "d",
+   "question" : "🏃 🍫 🍤"
+   }, {
+   "answers_en" : {
+   "a" : "Valentines Day",
+   "b" : "My Bloody Valentine",
+   "c" : "I Hate Valentine's Day",
+   "d" : "My Big Fat Greek Wedding"
+   },
+   "answers_tr" : {
+   "a" : "Sevgililer Günü",
+   "b" : "Sevgililer Gününden Nefret Ediyorummm!",
+   "c" : "Sevgililer Günü Katliamı",
+   "d" : "Kalbinin Sesini Dinle"
+   },
+   "correct_answer" : "a",
+   "question" : "💑 📅"
+   }, {
+   "answers_en" : {
+   "a" : "Pitch Perfect",
+   "b" : "The Story of Luke",
+   "c" : "Equilibrium",
+   "d" : "Bedtime Stories"
+   },
+   "answers_tr" : {
+   "a" : "Mükemmel Saha",
+   "b" : "Tanrının Kitabı",
+   "c" : "İsyan",
+   "d" : "Gerçek Masallar"
+   },
+   "correct_answer" : "d",
+   "question" : "😴 📖 📖"
+   }, {
+   "answers_en" : {
+   "a" : "Kiss Of The Dragon",
+   "b" : "Karate Kid",
+   "c" : "Equilibrium",
+   "d" : "Rush Hour"
+   },
+   "answers_tr" : {
+   "a" : "Ejder Öpücüğü",
+   "b" : "Karateci Çocuk",
+   "c" : "Altın Yumruk İstanbul'da",
+   "d" : "Bitirim İkili"
+   },
+   "correct_answer" : "b",
+   "question" : "🇯🇵 👴🏻 🙎🏻‍♂️ 👊"
+   }, {
+   "answers_en" : {
+   "a" : "Cloud Atlas",
+   "b" : "Atlas",
+   "c" : "Jurassic Park",
+   "d" : "2012"
+   },
+   "answers_tr" : {
+   "a" : "Bulut Atlası",
+   "b" : "Atlas",
+   "c" : "Jurassic Park",
+   "d" : "2012"
+   },
+   "correct_answer" : "a",
+   "question" : "☁️ 🌍 📜"
+   }, {
+   "answers_en" : {
+   "a" : "Hulk",
+   "b" : "Captain America",
+   "c" : "Wonder Woman",
+   "d" : "Batman"
+   },
+   "answers_tr" : {
+   "a" : "Yeşil Dev",
+   "b" : "Kaptan Amerika",
+   "c" : "Bitirim İkili",
+   "d" : "Kıyamet"
+   },
+   "correct_answer" : "b",
+   "question" : "👨🏻‍✈️ 🇺🇸"
+   }, {
+   "answers_en" : {
+   "a" : "Hulk",
+   "b" : "Fantastic Beasts and Where to Find Them",
+   "c" : "Wonder Woman",
+   "d" : "Beauty And The Beast"
+   },
+   "answers_tr" : {
+   "a" : "Yeşil Dev",
+   "b" : "Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",
+   "c" : "Kırmızı Başlıklı Kız",
+   "d" : "Güzel ve Çirkin"
+   },
+   "correct_answer" : "d",
+   "question" : "👸 ❤️ 🌹 🐻"
+   }, {
+   "answers_en" : {
+   "a" : "It Follows",
+   "b" : "Paranormal Activity",
+   "c" : "The Shining",
+   "d" : "The Babadook"
+   },
+   "answers_tr" : {
+   "a" : "Peşimdeki Şeytan",
+   "b" : "Paranormal Activity",
+   "c" : "Dabbe 3",
+   "d" : "Karabasan"
+   },
+   "correct_answer" : "b",
+   "question" : "👫 📹 👻"
+   }, {
+   "answers_en" : {
+   "a" : "Biker Boyz",
+   "b" : "The Ring",
+   "c" : "The Devil's Backbone",
+   "d" : "Ghost Rider"
+   },
+   "answers_tr" : {
+   "a" : "Hız Çetesi",
+   "b" : "Halka",
+   "c" : "Şeytanın Bel Kemiği",
+   "d" : "Hayalet Sürücü"
+   },
+   "correct_answer" : "d",
+   "question" : "👻 👨🏻 🏍"
+   }, {
+   "answers_en" : {
+   "a" : "What Women Want",
+   "b" : "Frida",
+   "c" : "Iron Jawed Angels",
+   "d" : "Blue Is the Warmest Color"
+   },
+   "answers_tr" : {
+   "a" : "Kadınlar Ne İster",
+   "b" : "Frida",
+   "c" : "Demir Çeneli Melekler",
+   "d" : "Mavi En Sıcak Renktir"
+   },
+   "correct_answer" : "a",
+   "question" : "🙍🏼 🗯 ❓"
+   }, {
+   "answers_en" : {
+   "a" : "R-Point",
+   "b" : "Scream",
+   "c" : "The Sixth Sense",
+   "d" : "The Ring"
+   },
+   "answers_tr" : {
+   "a" : "R-Point",
+   "b" : "Çığlık",
+   "c" : "Altıncı His",
+   "d" : "Halka"
+   },
+   "correct_answer" : "a",
+   "question" : "💍 📺"
+   }, {
+   "answers_en" : {
+   "a" : "Open Water",
+   "b" : "Finding nemo",
+   "c" : "Shape of Water",
+   "d" : "Jaws"
+   },
+   "answers_tr" : {
+   "a" : "Evim Sensin",
+   "b" : "Kayıp Balık Nemo",
+   "c" : "Suyun Sesi",
+   "d" : "Denizin Dişleri"
+   },
+   "correct_answer" : "c",
+   "question" : "🐠 😶 ❤️ 🤷🏻‍♀️"
+   }, {
+   "answers_en" : {
+   "a" : "Hangover",
+   "b" : "Father Of The Bride",
+   "c" : "Hangover 2",
+   "d" : "The Bride"
+   },
+   "answers_tr" : {
+   "a" : "Felekten Bir Gece",
+   "b" : "Gelinin Babası",
+   "c" : "Felekten Bir Gece 2",
+   "d" : "Gelin"
+   },
+   "correct_answer" : "b",
+   "question" : "👴🏻 💁🏻 ➡️ 👰🏻"
+   }, {
+   "answers_en" : {
+   "a" : "Hangover",
+   "b" : "The Nightmare Before Christmas",
+   "c" : "Elf",
+   "d" : "The Lord of the Rings"
+   },
+   "answers_tr" : {
+   "a" : "Neşeli Hayat",
+   "b" : "Noel Baba ve Arkadaşları",
+   "c" : "Evim Sensin",
+   "d" : "Noel Baba"
+   },
+   "correct_answer" : "d",
+   "question" : "🎅🏼"
+   }, {
+   "answers_en" : {
+   "a" : "Red Dawn",
+   "b" : "The Hunger Games",
+   "c" : "Elf",
+   "d" : "White House Down"
+   },
+   "answers_tr" : {
+   "a" : "Kızıl Şafak",
+   "b" : "Evim Sensin",
+   "c" : "Açlık Oyunları",
+   "d" : "Beyaz Saray Düştü"
+   },
+   "correct_answer" : "a",
+   "question" : "🔴 🌒 ☀️"
+   }, {
+   "answers_en" : {
+   "a" : "Elf",
+   "b" : "Se7en",
+   "c" : "Sweeney Todd",
+   "d" : "Red Dragon"
+   },
+   "answers_tr" : {
+   "a" : "Kolpaçino",
+   "b" : "Çakallarla Dans 4",
+   "c" : "Kutsal Damacana",
+   "d" : "Kızıl Ejder"
+   },
+   "correct_answer" : "d",
+   "question" : "🔴 🐉"
+   }, {
+   "answers_en" : {
+   "a" : "Noah",
+   "b" : "The Good, the Bad and the Ugly",
+   "c" : "Greed",
+   "d" : "Lawrence of Arabia"
+   },
+   "answers_tr" : {
+   "a" : "Nuh'un Gemisi",
+   "b" : "Peygamberler Tarihi",
+   "c" : "Çöldeki İzler",
+   "d" : "Arabistanlı Lawrence"
+   },
+   "correct_answer" : "a",
+   "question" : "👨🏻 🛶 🐫 🐪"
+   }, {
+   "answers_en" : {
+   "a" : "Noah",
+   "b" : "The Terminator",
+   "c" : "Rocky IV",
+   "d" : "First Blood"
+   },
+   "answers_tr" : {
+   "a" : "Evim Sensin",
+   "b" : "Terminatör",
+   "c" : "Rocky 4",
+   "d" : "İlk Kan"
+   },
+   "correct_answer" : "d",
+   "question" : "⒈ 💉 🆎 🅾️"
+   }, {
+   "answers_en" : {
+   "a" : "Noah",
+   "b" : "Milk",
+   "c" : "Gāv",
+   "d" : "La Teta Asustada"
+   },
+   "answers_tr" : {
+   "a" : "Masumiyet",
+   "b" : "Bal",
+   "c" : "Süt",
+   "d" : "Yumurta"
+   },
+   "correct_answer" : "c",
+   "question" : "🍼 🥛"
+   }, {
+   "answers_en" : {
+   "a" : "Ice Twisters",
+   "b" : "Twister",
+   "c" : "Storm Cell",
+   "d" : "Hurricane Season"
+   },
+   "answers_tr" : {
+   "a" : "Fırtınanın İçinde",
+   "b" : "Kasırga",
+   "c" : "Buz Kasırgası",
+   "d" : "Fırtına Hücresi"
+   },
+   "correct_answer" : "b",
+   "question" : "💨 🌀 🏡 💥"
+   }, {
+   "answers_en" : {
+   "a" : "Before Midnight",
+   "b" : "Twilight",
+   "c" : "Midnight Special",
+   "d" : "Star Wars"
+   },
+   "answers_tr" : {
+   "a" : "Geceyarısından Önce",
+   "b" : "Alacakaranlık",
+   "c" : "Paris'te Gece Yarısı",
+   "d" : "Evim Sensin"
+   },
+   "correct_answer" : "a",
+   "question" : "◀️ 🕛 🌃"
+   }, {
+   "answers_en" : {
+   "a" : "Edward Scissorhands",
+   "b" : "Sweeney Todd",
+   "c" : "The Godfather",
+   "d" : "Se7en"
+   },
+   "answers_tr" : {
+   "a" : "Edward Makas Eller",
+   "b" : "Sweeney Todd",
+   "c" : "Baba",
+   "d" : "Se7en"
+   },
+   "correct_answer" : "d",
+   "question" : "7️⃣ 🔪 💀"
+   }, {
+   "answers_en" : {
+   "a" : "Planet Apes",
+   "b" : "The Jungle Book",
+   "c" : "Tarzan",
+   "d" : "Jumanji"
+   },
+   "answers_tr" : {
+   "a" : "Planet Apes",
+   "b" : "Orman Çocuğu",
+   "c" : "Tarzan",
+   "d" : "Jumanji"
+   },
+   "correct_answer" : "b",
+   "question" : "🌴 📖"
+   }, {
+   "answers_en" : {
+   "a" : "Planet of Apes",
+   "b" : "The Jungle Book",
+   "c" : "Tarzan",
+   "d" : "Jumanji"
+   },
+   "answers_tr" : {
+   "a" : "Maymunlar Cehennemi",
+   "b" : "Orman Çocuğu",
+   "c" : "Tarzan",
+   "d" : "Jumanji"
+   },
+   "correct_answer" : "a",
+   "question" : "🌍 🐵 🐵 🐵"
+   }, {
+   "answers_en" : {
+   "a" : "Ice Ice Baby",
+   "b" : "Peter Pan",
+   "c" : "Vanilla Sky",
+   "d" : "Ice Cream Machine"
+   },
+   "answers_tr" : {
+   "a" : "Kurtlar Vadisi: Irak",
+   "b" : "Peter Pan",
+   "c" : "Vanilla Sky",
+   "d" : "Dondurmam Gaymak"
+   },
+   "correct_answer" : "c",
+   "question" : "🍦 ⛅"
+   }, {
+   "answers_en" : {
+   "a" : "Ice Ice Baby",
+   "b" : "Peter Pan",
+   "c" : "Vanilla Sky",
+   "d" : "Ice Cream Machine"
+   },
+   "answers_tr" : {
+   "a" : "Kurtlar Vadisi: Irak",
+   "b" : "Peter Pan",
+   "c" : "Vanilla Sky",
+   "d" : "Dondurmam Gaymak"
+   },
+   "correct_answer" : "c",
+   "question" : "👱 👓 ❤️ 📱"
+   }, {
+   "answers_en" : {
+   "a" : "Tesla",
+   "b" : "Green Street Holigans",
+   "c" : "Number 23",
+   "d" : "Space Jam"
+   },
+   "answers_tr" : {
+   "a" : "Tesla",
+   "b" : "Yeşil Sokak Holiganları",
+   "c" : "23 Numara",
+   "d" : "Space Jam"
+   },
+   "correct_answer" : "d",
+   "question" : "🏀 🚀"
+   }, {
+   "answers_en" : {
+   "a" : "Coco Before Chanel",
+   "b" : "The Devil Wears Prada",
+   "c" : "Blood Diamond",
+   "d" : "Mission: Impossible"
+   },
+   "answers_tr" : {
+   "a" : "Coco Chanel'den Önce",
+   "b" : "Şeytan Marka Giyer",
+   "c" : "Kanlı Elmas",
+   "d" : "Görevimiz Tehlike"
+   },
+   "correct_answer" : "c",
+   "question" : "💉 💎"
+   }, {
+   "answers_en" : {
+   "a" : "The Devil Wears Prada",
+   "b" : "Sin City",
+   "c" : "Batman",
+   "d" : "300"
+   },
+   "answers_tr" : {
+   "a" : "Şeytan Marka Giyer",
+   "b" : "Günah Şehri",
+   "c" : "Batman",
+   "d" : "300"
+   },
+   "correct_answer" : "b",
+   "question" : "😈 😈 😈 🌉"
+   }, {
+   "answers_en" : {
+   "a" : "Psycho",
+   "b" : "Shower",
+   "c" : "Scary Movie",
+   "d" : "Scream"
+   },
+   "answers_tr" : {
+   "a" : "Psikopat",
+   "b" : "Ah Nerede Vah Nerede",
+   "c" : "Korkunç Bir Film",
+   "d" : "Çığlık"
+   },
+   "correct_answer" : "a",
+   "question" : "🔪 🚿 😱"
+   }, {
+   "answers_en" : {
+   "a" : "Saving Private Ryan",
+   "b" : "Pianist",
+   "c" : "Inglourious Basterds",
+   "d" : "Violin"
+   },
+   "answers_tr" : {
+   "a" : "Er Ryan'ı Kurtarmak",
+   "b" : "Pianist",
+   "c" : "Soysuzlar Çetesi",
+   "d" : "Kemancı"
+   },
+   "correct_answer" : "b",
+   "question" : "👱 🎹"
+   }, {
+   "answers_en" : {
+   "a" : "Reservoir Dogs",
+   "b" : "101 dalmatians",
+   "c" : "Hachiko",
+   "d" : "K-9 Training Camp"
+   },
+   "answers_tr" : {
+   "a" : "Rezervuar Köpekleri",
+   "b" : "101 Dalmaçyalı",
+   "c" : "Hachiko",
+   "d" : "Çomar"
+   },
+   "correct_answer" : "a",
+   "question" : "🚽 🐶 🐶 🐶 🐶 🐶"
+   }, {
+   "answers_en" : {
+   "a" : "Reservoir Dogs",
+   "b" : "101 dalmatians",
+   "c" : "Hachiko",
+   "d" : "K-9 Training Camp"
+   },
+   "answers_tr" : {
+   "a" : "Rezervuar Köpekleri",
+   "b" : "101 Dalmaçyalı",
+   "c" : "Hachiko",
+   "d" : "Çomar"
+   },
+   "correct_answer" : "a",
+   "question" : "🚽 🐶 🐶 🐶 🐶 🐶"
+   }, {
+   "answers_en" : {
+   "a" : "Uber",
+   "b" : "Ocean's Eleven",
+   "c" : "Get Rich or Die Tryin",
+   "d" : "Taxi Driver"
+   },
+   "answers_tr" : {
+   "a" : "Uber",
+   "b" : "BiTaksi",
+   "c" : "IBB Cep Trafik",
+   "d" : "Taksi"
+   },
+   "correct_answer" : "d",
+   "question" : "🚖 👱 🚕 🏎"
+   }, {
+   "answers_en" : {
+   "a" : "Scooby-Doo",
+   "b" : "Spiderman vs Venom",
+   "c" : "Ghost Busters",
+   "d" : "Avengers"
+   },
+   "answers_tr" : {
+   "a" : "Dabbe 115 - Yeter Artık",
+   "b" : "Ulak",
+   "c" : "Hayalet Avcıları",
+   "d" : "Scooby-Doo"
+   },
+   "correct_answer" : "c",
+   "question" : "👻 👻 👻 🔫"
+   }, {
+   "answers_en" : {
+   "a" : "Silent Hill",
+   "b" : "Dentist",
+   "c" : "The Texas Chainsaw Massacre",
+   "d" : "The Bone Collector"
+   },
+   "answers_tr" : {
+   "a" : "Sessiz Tepe",
+   "b" : "Ulak",
+   "c" : "Teksas Katliamı",
+   "d" : "Kemik Koleksiyoncusu"
+   },
+   "correct_answer" : "a",
+   "question" : "😶 🌄"
+   }, {
+   "answers_en" : {
+   "a" : "Steve Jobs",
+   "b" : "Once Upon a Time in Anatolia",
+   "c" : "Milk",
+   "d" : "A Clockwork Orange"
+   },
+   "answers_tr" : {
+   "a" : "Steve Jobs",
+   "b" : "Bir Zamanlar Anadoluda",
+   "c" : "Süt",
+   "d" : "Otomatik Portakal"
+   },
+   "correct_answer" : "d",
+   "question" : "🕑 🔧 ⚙️ 🍊 🥛"
+   }, {
+   "answers_en" : {
+   "a" : "Wall-E",
+   "b" : "Up",
+   "c" : "Lego Batman",
+   "d" : "Inside Out"
+   },
+   "answers_tr" : {
+   "a" : "Wall-E",
+   "b" : "Yukarı Bak",
+   "c" : "Lego Batman",
+   "d" : "Ters Yüz"
+   },
+   "correct_answer" : "b",
+   "question" : "🏠 🎈 🎈 🎈"
+   }, {
+   "answers_en" : {
+   "a" : "The Watchmen",
+   "b" : "The Sorcerer's Apprentice",
+   "c" : "The Avengers",
+   "d" : "Dark Knight"
+   },
+   "answers_tr" : {
+   "a" : "Watchmen",
+   "b" : "Sihirbazın Çırağı",
+   "c" : "Yenilmezler",
+   "d" : "Kara Şövalye"
+   },
+   "correct_answer" : "a",
+   "question" : "⏱ 👨‍👩‍👦‍👦 🙂"
+   }, {
+   "answers_en" : {
+   "a" : "Justice",
+   "b" : "Blade Runner",
+   "c" : "Robocop",
+   "d" : "Se7en"
+   },
+   "answers_tr" : {
+   "a" : "Adalet Peşinde",
+   "b" : "Kobra Takibi",
+   "c" : "Robocop",
+   "d" : "Transformers"
+   },
+   "correct_answer" : "c",
+   "question" : "🤖 🚔"
+   },{
+  "answers_en" : {
+  "a" : "Amadeus",
+  "b" : "Phantom Of The Opera",
+  "c" : "Opera",
+  "d" : "The Magic Flute"
+  },
+  "answers_tr" : {
+  "a" : "Amadeus",
+  "b" : "Operadaki Hayalet",
+  "c" : "Opera",
+  "d" : "Sihirli Flüt"
+  },
+  "correct_answer" : "b",
+  "question" : "👻 🎻 🎺 🎷"
+  }, {
+  "answers_en" : {
+  "a" : "Madagascar",
+  "b" : "Coco",
+  "c" : "Alice In Wonderland",
+  "d" : "Toy Story"
+  },
+  "answers_tr" : {
+  "a" : "Madagaskar",
+  "b" : "Coco",
+  "c" : "Alis Harikalar Diyarında",
+  "d" : "Oyuncak Hikâyesi"
+  },
+  "correct_answer" : "c",
+  "question" : "👸 🐰 ♣️ ♦️"
+  }, {
+  "answers_en" : {
+  "a" : "Gone With The Wind",
+  "b" : "Wind in the Willows",
+  "c" : "Written on the Wind",
+  "d" : "The Wind in the Willows"
+  },
+  "answers_tr" : {
+  "a" : "Rüzgar Gibi Geçti",
+  "b" : "Aşk Rüzgarları",
+  "c" : "Hızlı ve Öfkeli",
+  "d" : "Evim Sensin"
+  },
+  "correct_answer" : "a",
+  "question" : "💨 💨 💨 🏚"
+  },{
+  "answers_en" : {
+  "a" : "Wonder Woman",
+  "b" : "Beaches",
+  "c" : "Little Women",
+  "d" : "Scent of a Woman"
+  },
+  "answers_tr" : {
+  "a" : "Küçük Kadınlar",
+  "b" : "Kumsalda",
+  "c" : "Wonder Woman",
+  "d" : "Kadın Kokusu"
+  },
+  "correct_answer" : "d",
+  "question" : "🙎 👃🏻 🏎 🕶"
+  },{
+  "answers_en" : {
+  "a" : "Wonder Woman",
+  "b" : "James Bond",
+  "c" : "The Girl with the Dragon Tattoo",
+  "d" : "Scent of a Woman"
+  },
+  "answers_tr" : {
+  "a" : "Wonder Woman",
+  "b" : "James Bond",
+  "c" : "Ejderha Dövmeli Kız",
+  "d" : "Kadın Kokusu"
+  },
+  "correct_answer" : "c",
+  "question" : "💁🏻 🐉 ⻰ "
+  },{
+  "answers_en" : {
+  "a" : "Yesterday's Hero",
+  "b" : "The Barber",
+  "c" : "Edward Scissorhands",
+  "d" : "Jungle"
+  },
+  "answers_tr" : {
+  "a" : "Güzellik Salonu",
+  "b" : "Berber",
+  "c" : "Makas Eller",
+  "d" : "Orman"
+  },
+  "correct_answer" : "c",
+  "question" : "🙎🏻‍♂️ 💇🏻 ✂️ ✂️ 🌳"
+  },{
+  "answers_en" : {
+  "a" : "Shape of Water",
+  "b" : "Robin",
+  "c" : "Superman",
+  "d" : "Scent of a Woman"
+  },
+  "answers_tr" : {
+  "a" : "Suyun Sesi",
+  "b" : "Robin",
+  "c" : "Superman",
+  "d" : "Batman"
+  },
+  "correct_answer" : "d",
+  "question" : "🦇 👨🏻"
+  },{
+  "answers_en" : {
+  "a" : "Fight Club",
+  "b" : "The Good , The Bad ,The Ugly ",
+  "c" : "Pulp Fiction",
+  "d" : "Scent of a Woman"
+  },
+  "answers_tr" : {
+  "a" : "Dövüş Kulübü",
+  "b" : "İyi , Kötü , Çirkin",
+  "c" : "Ucuz Roman",
+  "d" : "Ruhların Kaçışı"
+  },
+  "correct_answer" : "c",
+  "question" : "👨🏻 👨🏾 🔫 🍔 💁🏼"
+  }]

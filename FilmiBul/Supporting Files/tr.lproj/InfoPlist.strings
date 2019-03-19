@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  FilmiBul
+
+  Created by Orcun Yuksel on 18/04/2018.
+  Copyright © 2018 UpApp. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Filmi Bul";
+
+"CFBundleName" = "Filmi Bul";
+
+"NSPhotoLibraryUsageDescription" = "Skorunuzu kaydetmek için izin vermeniz gerekmektedir.";
